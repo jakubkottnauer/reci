@@ -1,27 +1,27 @@
 ---
 layout: recipe
 title:  "Chilli con Carne"
-categories: amazing beef dinner
+tags: amazing beef dinner
 source: http://www.bbcgoodfood.com/recipes/3228/chilli-con-carne
 serves: 4
 rating: 5
 ---
- * 1 tbsp oil
- * 1 large onion
- * 1 red pepper
- * 2 garlic cloves, peeled
- * 1 heaped tsp hot chilli powder (or 1 level tbsp if you only have mild)
- * 1 tsp paprika
- * 1 tsp ground cumin
- * 500g lean minced beef
- * 1 beef stock cube
- * 400g can chopped tomatoes
- * ½ tsp dried marjoram
- * 1 tsp sugar
- * 2 tbsp tomato purée
- * 410g can red kidney beans
- * plain boiled long grain rice, to serve
- * soured cream, to serve
+* 1 tbsp oil
+* 1 large onion
+* 1 red pepper
+* 2 garlic cloves, peeled
+* 1 heaped tsp hot chilli powder (or 1 level tbsp if you only have mild)
+* 1 tsp paprika
+* 1 tsp ground cumin
+* 500g lean minced beef
+* 1 beef stock cube
+* 400g can chopped tomatoes
+* ½ tsp dried marjoram
+* 1 tsp sugar
+* 2 tbsp tomato purée
+* 410g can red kidney beans
+* plain boiled long grain rice, to serve
+* soured cream, to serve
 
 Prepare your vegetables. Chop 1 large onion into small dice, about 5mm square. Cut 1 red pepper in half lengthways, remove stalk and wash the seeds away, then chop. Peel and finely chop 2 garlic cloves.
 

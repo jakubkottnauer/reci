@@ -1,22 +1,21 @@
 ---
 layout: recipe
 title:  "Tomato and Bread Soup (Pappa al Pomodoro)"
-categories: amazing beef dinner
+tags: amazing soup tomato italy italian
 source: http://www.simplyrecipes.com/recipes/tomato_and_bread_soup_pappa_al_pomodoro
-serves: 4
-rating: 4
+serves: 6
 ---
- * 2 cups diced yellow onion
- * 2 Tbsp olive oil
- * 5 cloves garlic, minced
- * 2 28-ounce cans whole peeled tomatoes (or about 4 pounds of fresh, ripe tomatoes, that are blanched, peeled, and chopped*)
- * 3 bay leaves
- * 2 cups of chicken stock
- * 2 more Tbsp olive oil
- * 1 1/2 cups of cubed rustic bread, 1 1/2-inch cubes (about 2 to 3 thick slices of Italian loaf), day old is best
- * 1 teaspoon dried oregano
- * 1/2 teaspoon salt, less or more to taste
- * Freshly grated Parmesan cheese and chopped fresh basil or parsley for garnish
+* 2 cups diced yellow onion
+* 2 Tbsp olive oil
+* 5 cloves garlic, minced
+* 2 28-ounce cans whole peeled tomatoes (or about 4 pounds of fresh, ripe tomatoes, that are blanched, peeled, and chopped*)
+* 3 bay leaves
+* 2 cups of chicken stock
+* 2 more Tbsp olive oil
+* 1 1/2 cups of cubed rustic bread, 1 1/2-inch cubes (about 2 to 3 thick slices of Italian loaf), day old is best
+* 1 teaspoon dried oregano
+* 1/2 teaspoon salt, less or more to taste
+* Freshly grated Parmesan cheese and chopped fresh basil or parsley for garnish
 
 Sauté onions, garlic: Heat 2 Tbsp olive oil on medium heat in a 5 to 6-quart thick-bottomed pot. Add the diced onions and cook slowly until softened and beginning to color, about 10-12 minutes.
 Add minced garlic and cook a minute more.
