@@ -5,6 +5,7 @@ tags: amazing beef dinner
 source: http://www.bbcgoodfood.com/recipes/3228/chilli-con-carne
 serves: 4
 rating: 5
+img http://www.bbcgoodfood.com/recipes/3228/image.jpg
 ---
 * section title
   * 1 tbsp oil
