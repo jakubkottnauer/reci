@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  {% include head.html %}
+
+  {% include header.html %}
+
+  <body>
+    <section class="page-wrapper">
+      {% for recipe in site.recipes %}
+        <div class="recipe">
+          <a href="{{ recipe.url | prepend: site.github.url }}">{{ recipe.title }}</a>
+        </div>
+      {% endfor %}
+    </section>
+  </body>
+
+  {% include footer.html %}
+</html>
