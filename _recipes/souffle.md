@@ -5,6 +5,7 @@ tags: amazing soup tomato italy italian
 source: http://www.bbcgoodfood.com/recipes/2922/hot-chocolate-souffl-
 serves: 4
 rating: 4
+img: souffle.jpg
 ---
 * For the dishes:
   * 25 grams unsalted butter; for greasing

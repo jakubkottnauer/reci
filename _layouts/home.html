@@ -9,6 +9,9 @@
     <section class="page-wrapper">
       {% for recipe in site.recipes %}
         <div class="recipe">
+          {% if recipe.img %}
+            <img src="{{site.github.url}}/images/recipes/{{recipe.img}}" width="50px" />
+          {% endif %}
           <a href="{{ recipe.url | prepend: site.github.url }}">{{ recipe.title }}</a>
         </div>
       {% endfor %}
