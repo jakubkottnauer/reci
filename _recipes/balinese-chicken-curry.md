@@ -2,7 +2,7 @@
 layout: recipe
 title:  "Balinese Chicken Curry"
 tags: amazing curry bali
-source: http://www.simplyrecipes.com/recipes/tomato_and_bread_soup_pappa_al_pomodoro
+source: http://www.jamieoliver.com/recipes/curry-recipes/balinese-chicken-curry/
 ---
 * 4cm piece of ginger
 * 4 cloves of garlic
