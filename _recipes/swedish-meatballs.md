@@ -6,26 +6,26 @@ source: http://allrecipes.com/recipe/231169/chef-johns-swedish-meatballs/
 serves: 6
 ---
 * Meatballs
- * 2 tbsp butter 
- * 1/2 yellow onion, finely chopped
- * 1 1/2 teaspoons fine salt 
- * 1/4 cup milk 
- * 2 large eggs 
- * 1/3 cup plain bread crumbs 
- * 3/4 teaspoon freshly ground black pepper 
- * 1/4 teaspoon ground nutmeg 
- * 1/4 teaspoon ground allspice 
- * 1 pinch cayenne pepper, or to taste
- * 1 pound ground beef chuck 
- * 1 pound ground pork 
+  * 2 tbsp butter 
+  * 1/2 yellow onion, finely chopped
+  * 1 1/2 teaspoons fine salt 
+  * 1/4 cup milk 
+  * 2 large eggs 
+  * 1/3 cup plain bread crumbs 
+  * 3/4 teaspoon freshly ground black pepper 
+  * 1/4 teaspoon ground nutmeg 
+  * 1/4 teaspoon ground allspice 
+  * 1 pinch cayenne pepper, or to taste
+  * 1 pound ground beef chuck 
+  * 1 pound ground pork 
 * Gravy: 
- * 2 tablespoons butter 
- * 3 tablespoons all-purpose flour 
- * 3 1/4 cups beef broth 
- * 1/2 cup heavy cream 
- * 1/2 teaspoon white sugar 
- * 1/4 teaspoon Worcestershire sauce 
- * salt and freshly ground black pepper to taste
+  * 2 tablespoons butter 
+  * 3 tablespoons all-purpose flour 
+  * 3 1/4 cups beef broth 
+  * 1/2 cup heavy cream 
+  * 1/2 teaspoon white sugar 
+  * 1/4 teaspoon Worcestershire sauce 
+  * salt and freshly ground black pepper to taste
 
 Melt 2 tablespoons butter in a large skillet over medium heat. Cook and stir onion and 1 1/2 teaspoons salt in butter until onion begins to turn translucent, about 6 minutes.
 
