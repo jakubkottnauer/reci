@@ -7,6 +7,10 @@
 
   <body>
     <section class="page-wrapper">
+      <div class="filter-wrapper">
+        <label for="filter-input">Search</label>
+        <input type="text" id="filter-input" />
+      </div>
       {% for recipe in site.recipes %}
         <div class="recipe">
           {% if recipe.img %}

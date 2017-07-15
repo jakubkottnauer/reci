@@ -7,5 +7,29 @@
 
   <meta name="robots" content="noindex, nofollow">
   <link rel="stylesheet" href="{{ site.github.url }}/assets/main.css">
-  <link rel="canonical" href="http://localhost:4000/">
+  <script
+    src="https://code.jquery.com/jquery-3.2.1.min.js"
+    integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+    crossorigin="anonymous"></script>
+
+  <script>
+  $(document).ready(function() {
+    $('#filter-input').on('input', function () {
+      var filterBy = $(this).val().toLowerCase()
+      $('.recipe').filter(function() {
+        var txt = $(this).text().trim().toLowerCase()
+        return txt.indexOf(filterBy) === -1;
+      }).hide();
+
+      $('.recipe').filter(function() {
+        var txt = $(this).text().trim().toLowerCase()
+        return txt.indexOf(filterBy) !== -1;
+      }).show();
+
+      // $('.recipe').filter(function() {
+      //   return $(this).text().trim().indexOf(input.val()) === -1;
+      // }).show();
+    })
+  })
+  </script>
 </head>

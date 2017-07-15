@@ -26,6 +26,25 @@ $content-width:    800px;
 $on-palm:          600px;
 $on-laptop:        800px;
 
+// Custom
+.recipe {
+  padding-left: 30px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.filter-wrapper {
+  margin-top: 20px;
+  margin-bottom: 10px;
+  margin-left: 30px;
+}
+
+#filter-input {
+  height: 30px;
+  font-size: 20px;
+  width: 300px;
+}
+
 // Minima also includes a mixin for defining media queries.
 // Use media queries like this:
 // @include media-query($on-palm) {
