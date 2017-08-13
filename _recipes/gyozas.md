@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title:  "Gyozas"
+source: http://steamykitchen.com/5874-gyoza-recipe-japanese-pan-fried-dumplings.html
 tags: japan japanese dumplings
 ---
 * 4 cups, loosely packed, minced Napa cabbage (use the frilly leafy half of the cabbage)
