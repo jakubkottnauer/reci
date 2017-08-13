@@ -13,17 +13,15 @@
             <h1 class="post-title">{{page.title}}</h1>
           </header>
           <div class="info-section">
-            <ul>
-              {% if page.source %}
-                <li>URL: <a href="{{page.source}}" target="_blank">{{page.source}}</a></li>
-              {% endif %}
-              {% if page.serves %}
-                <li>serves: {{page.serves}}</li>
-              {% endif %}
-              {% if page.rating %}
-                <li>rating: {{page.rating}}</li>
-              {% endif %}
-            </ul>
+            {% if page.source %}
+              <a href="{{page.source}}" target="_blank">Website</a></li>
+            {% endif %}
+            {% if page.serves %}
+              | serves {{page.serves}}
+            {% endif %}
+            {% if page.rating %}
+              | rating: {{page.rating}}
+            {% endif %}
           </div>
           <div class="post-content">
             {{content}}
