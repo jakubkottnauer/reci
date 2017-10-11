@@ -1,8 +1,8 @@
 ---
 layout: recipe
-title:  "Waffles"
+title: "Waffles"
 tags: amazing sweet breakfast
-http://www.marthastewart.com/338522/waffles
+source: http://www.marthastewart.com/338522/waffles
 ---
 * 1 cup all-purpose flour, spooned and leveled
 * 2 tablespoons sugar
