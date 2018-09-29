@@ -7,7 +7,7 @@ serves: 4
 ---
 * 1 teaspoon active dry yeast
 * 2 teaspoons sugar, divided
-* ¾ cup warm water
+* 3/4 cup warm water
 * 3 tablespoons plain yogurt
 * 2 tablespoons extra-virgin olive oil
 * 2 cups all-purpose flour, plus more for rolling
