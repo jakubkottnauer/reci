@@ -5,7 +5,7 @@ tags: amazing georgia georgian bread cheese
 source: http://www.youtube.com/watch?v=HtZf_sGTOrA
 ---
 * Dough
-  * 2 cups bread flour
+  * 2 cups flour (preferably 1 cup bread flour + 1 cup all purpose flour)
   * 1 cup (sour) milk
   * 1 tsp instant yeast
   * ½ tsp salt
