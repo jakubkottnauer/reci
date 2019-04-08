@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /
+Sitemap: https://reci.kttnr.com/sitemap.xml
+Host: https://reci.kttnr.com
