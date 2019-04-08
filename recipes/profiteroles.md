@@ -1,8 +1,8 @@
 ---
-
-title:  "Profiteroles"
+title: "Profiteroles"
 tags: amazing italy italian dessert sweet
 source: http://www.lifestylefood.com.au/recipes/2057/profiteroles-with-hot-chocolate-sauce
+image: profiteroles.jpg
 ---
 * Choux pastry
   * 125 ml milk

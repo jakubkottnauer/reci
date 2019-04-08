@@ -1,9 +1,9 @@
 ---
-
 title:  "Naan"
 tags: india indian bread flatbread
 source: https://theculinarychronicles.com/2015/02/14/cast-iron-garlic-naan/
 serves: "4"
+image: naan.jpg
 ---
 * 1 teaspoon active dry yeast
 * 2 teaspoons sugar, divided

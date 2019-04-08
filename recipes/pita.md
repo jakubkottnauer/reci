@@ -1,8 +1,9 @@
 ---
-
-title:  "Pita Bread"
+title: "Pita Bread"
 tags: amazing bread
 source: http://zrzkavkuchyni.cz/recke-tapas/
+related: gyros
+image: pita.jpg
 ---
 * 2 hrnky hladké mouky
 * 20g droždí

@@ -1,9 +1,9 @@
 ---
-
 title:  "Orange-Ginger Chicken"
 tags: chicken asian
 source: http://www.tasteandtellblog.com/orange-ginger-chicken/
 serves: "4-6"
+image: orange-ginger-chicken.jpg
 ---
 * 1/3 cup all-purpose flour
 * 1 1/2 pounds boneless, skinless chicken breasts, cut into bite sized pieces

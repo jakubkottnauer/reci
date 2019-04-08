@@ -1,8 +1,8 @@
 ---
-
 title:  "Pelmeni"
 tags: amazing russian dumplings russia
 source: http://blogs.transparent.com/russian/making-russian-pelmeni/
+image: pelmeni.jpg
 ---
 * 3 cups all purpose flour
 * 1 cup cold water

@@ -1,8 +1,8 @@
 ---
-
 title:  "Perník"
 tags: amazing czech sweet dessert breakfast
 source: http://zrzkavkuchyni.cz/jablecny-pernik-s-cokoladovou-polevou/
+image: pernik.jpg
 ---
 * Perník
   * 2 hrnky polohrubé mouky

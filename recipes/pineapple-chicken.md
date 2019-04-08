@@ -3,16 +3,17 @@
 title:  "Chinese Pineapple Chicken"
 tags: amazing chicken china chinese
 source: https://soupbelly.com/2010/07/29/chinese-pineapple-chicken/
+image: pineapple-chicken.jpg
 ---
 * Chicken
   * 2 chicken breasts
-  *2 Tbsp. soy sauce
-  *1 tsp. sesame oil
-  *1 egg
-  *1/4 tsp. pepper
-  *3 Tbsp. flour
-  *3 Tbsp cornstarch
-  *corn or canola oil for frying
+  * 2 Tbsp. soy sauce
+  * 1 tsp. sesame oil
+  * 1 egg
+  * 1/4 tsp. pepper
+  * 3 Tbsp. flour
+  * 3 Tbsp cornstarch
+  * corn or canola oil for frying
 * Sauce
   * 1 cup pineapple chunks
   * 1 cup pineapple juice

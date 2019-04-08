@@ -7,6 +7,24 @@
   text-decoration: none;
 }
 
+.recipe-content > ul {
+  margin-bottom: 40px;
+}
+
+.recipe-content ul {
+  margin-top: 0;
+}
+
+.recipe-content li {
+  margin-bottom: 2px;
+  margin-top: 0px;
+}
+
+.recipe-content li p {
+  margin-bottom: 2px;
+  margin-top: 0px;
+}
+
 .recipe-list .recipe-group-heading {
   width: 100%;
   font-size: 60px;

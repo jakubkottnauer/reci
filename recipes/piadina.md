@@ -1,8 +1,8 @@
 ---
-
 title:  "Piadina"
 source: https://www.curiouscuisiniere.com/piadina/
 tags: italy italian dough
+image: piadina.jpg
 ---
 * For The Flatbread
   * 3 c unbleached all-purpose flour

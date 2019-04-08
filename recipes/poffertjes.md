@@ -1,7 +1,7 @@
 ---
-
 title:  "Poffertjes"
 tags: dutch netherlands
+image: poffertjes.jpg
 ---
 * 2 cups self-raising flour, sifted
 * 2 tablespoons caster sugar

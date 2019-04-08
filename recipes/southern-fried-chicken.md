@@ -1,6 +1,6 @@
 ---
 
-title:  "Southern Fried Chicken"
+title: "Southern Fried Chicken"
 tags: usa
 serves: "4-6"
 source: http://www.ceskatelevize.cz/porady/10084897100-kluci-v-akci/1137-recepty/1191-jizanske-smazene-kure/

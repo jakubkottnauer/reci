@@ -1,8 +1,8 @@
 ---
-
 title:  "Doughnuts"
 tags: sweet doughnuts
 source: http://thepioneerwoman.com/cooking/homemade-glazed-doughnuts/
+image: doughnuts.jpg
 ---
 * Doughnuts
   * 1⅛ cup Whole Milk, Warm

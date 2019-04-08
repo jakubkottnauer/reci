@@ -1,8 +1,8 @@
 ---
-
 title:  "Gyros"
 tags: amazing meat
 source: http://zrzkavkuchyni.cz/gyros/
+related: pita
 ---
 * 800g vepřové krkovice nebo prorostlejších kotlet
 * 1 lžička sladké papriky

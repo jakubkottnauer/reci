@@ -2,6 +2,7 @@
 
 title:  "Langose"
 tags: amazing
+image: langose.jpg
 ---
 * 1 tsp yeast
 * ½ tsp sugar

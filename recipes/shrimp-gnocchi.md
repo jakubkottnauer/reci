@@ -1,6 +1,6 @@
 ---
 
-title:  "Shrimp and gnocchi with garlic parmesan sauce"
+title: "Shrimp and gnocchi with garlic parmesan sauce"
 tags: italy italian seafood shrimp
 source: https://damndelicious.net/2016/12/17/shrimp-and-gnocchi-with-garlic-parmesan-cream-sauce/
 serves: "4"
