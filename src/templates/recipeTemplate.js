@@ -8,7 +8,7 @@ export default function Template({
   data, // this prop will be injected by the GraphQL query below.
 }) {
   const { markdownRemark } = data // data.markdownRemark holds our post data
-  const { frontmatter, html } = markdownRemark
+  const { frontmatter, html, fields } = markdownRemark
   return (
     <Layout>
       <Helmet title={frontmatter.title} />
@@ -25,13 +25,14 @@ export default function Template({
                 Website
               </a>
             )}
-            {frontmatter.related && (
-              <span>
-                | Related recipe:
-                <Link to={frontmatter.related}>{frontmatter.related}</Link>
-              </span>
-            )}
+            {frontmatter.serves && <span> | Serves: {frontmatter.serves}</span>}
           </div>
+          {fields.relatedRecipes &&
+            fields.relatedRecipes.map(r => (
+              <div className="recipe-meta" key={r.slug}>
+                Related recipe: <Link to={r.slug}>{r.title}</Link>
+              </div>
+            ))}
           <div
             className="recipe-content"
             dangerouslySetInnerHTML={{ __html: html }}
@@ -48,8 +49,14 @@ export const pageQuery = graphql`
       html
       frontmatter {
         title
+        serves
         source
-        related
+      }
+      fields {
+        relatedRecipes {
+          slug
+          title
+        }
       }
     }
   }

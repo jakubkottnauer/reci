@@ -3,6 +3,7 @@ module.exports = {
     title: 'Recipes',
     description: 'Personal recipe collection',
     author: 'Jakub Kottnauer <jk@jakubkottnauer.com>',
+    siteUrl: 'https://reci.kttnr.com',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
@@ -32,6 +33,12 @@ module.exports = {
       options: {
         path: `${__dirname}/recipes`,
         name: 'markdown-pages',
+      },
+    },
+    {
+      resolve: 'gatsby-plugin-robots-txt',
+      options: {
+        policy: [{ userAgent: '*', disallow: '/' }],
       },
     },
     'gatsby-transformer-remark',

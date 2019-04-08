@@ -1,5 +1,5 @@
 ---
-layout: recipe
+
 title:  "Bábovka"
 tags: czech sweet dessert
 source: http://www.foodlover.cz/2017/11/cokoladova-babovka.html

@@ -1,5 +1,5 @@
 ---
-layout: recipe
+
 title:  "Balinese Chicken Curry"
 tags: amazing curry bali
 source: http://www.jamieoliver.com/recipes/curry-recipes/balinese-chicken-curry/

@@ -1,9 +1,9 @@
 ---
-layout: recipe
+
 title:  "Pitki"
 tags: bulgaria bulgarian bread
 source: http://bohemiankitchen.com/2011/01/quick-easy-pitki-feta-cheese/
-serves: 2
+serves: "2"
 ---
 * 2 eggs
 * 2 cups flour

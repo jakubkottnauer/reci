@@ -1,5 +1,5 @@
 ---
-layout: recipe
+
 title: "Waffles"
 tags: amazing sweet breakfast
 source: http://www.marthastewart.com/338522/waffles

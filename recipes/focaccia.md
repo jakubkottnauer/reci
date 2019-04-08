@@ -1,5 +1,5 @@
 ---
-layout: recipe
+
 title:  "Focaccia"
 tags: italy italian
 source: http://www.bbc.co.uk/food/recipes/focaccia_with_garlic_and_35777

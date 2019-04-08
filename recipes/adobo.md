@@ -1,10 +1,8 @@
 ---
-layout: recipe
 title:  "Pork Adobo"
 tags: filipino
 source: http://salu-salo.com/pork-adobo/
-serves: 5
-
+serves: "5"
 ---
 * 2 lbs pork shoulder, cut into bite-size pieces
 * 2 tbsp vegetable oil

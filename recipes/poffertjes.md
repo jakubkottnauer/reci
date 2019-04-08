@@ -1,5 +1,5 @@
 ---
-layout: recipe
+
 title:  "Poffertjes"
 tags: dutch netherlands
 ---

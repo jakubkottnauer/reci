@@ -1,5 +1,5 @@
 ---
-layout: recipe
+
 title:  "Cinnamon Bun Swirls"
 tags: amazing sweet dessert
 source: http://sortedfood.com/#!/cinnamonbuns/

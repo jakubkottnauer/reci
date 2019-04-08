@@ -1,5 +1,5 @@
 ---
-layout: recipe
+
 title:  "Tarte au citron meringuée"
 tags: amazing dessert cake french france
 source: http://www.foodlover.cz/2012/10/tarte-au-citron-meringuee.html

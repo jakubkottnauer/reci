@@ -1,9 +1,9 @@
 ---
-layout: recipe
+
 title:  "Korean Bread Rolls"
 tags: amazing bread korea korean sweet breakfast
 source: http://www.maangchi.com/recipe/bread-rolls
-serves: 3-4 (6 rolls)
+serves: "3-4 (6 rolls)"
 ---
 * 3 tablespoons butter
 * ½ cup cold milk

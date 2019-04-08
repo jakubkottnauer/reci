@@ -1,9 +1,10 @@
 ---
-layout: recipe
+
 title:  "Kung Pao Chicken"
 tags: chicken china chinese
 source: http://www.chinasichuanfood.com/kung-pao-chicken/
-serves: 4
+serves: "4"
+image: kung-pao.jpg
 ---
 * 2 boneless chicken breasts (or 4 chicken thighs), cut into small cubes
 * 1/2 cup of skinless peanuts (you may use roasted peanuts and skip step 3 and step 4)

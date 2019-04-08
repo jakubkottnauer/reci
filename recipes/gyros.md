@@ -1,5 +1,5 @@
 ---
-layout: recipe
+
 title:  "Gyros"
 tags: amazing meat
 source: http://zrzkavkuchyni.cz/gyros/

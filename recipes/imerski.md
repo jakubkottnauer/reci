@@ -1,5 +1,5 @@
 ---
-layout: recipe
+
 title:  "Imerian Khachapuri"
 tags: amazing georgia georgian bread cheese
 source: http://www.youtube.com/watch?v=HtZf_sGTOrA

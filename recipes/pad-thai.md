@@ -1,9 +1,9 @@
 ---
-layout: recipe
+
 title:  "Pad Thai"
 tags: thai thailand noodles
 source: https://savorysweetlife.com/authentic-pad-thai-recipe/
-serves: 4
+serves: "4"
 ---
 * Sauce
   * 4 tablespoons tamarind juice (paste) concentrate

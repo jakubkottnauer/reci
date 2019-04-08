@@ -1,5 +1,5 @@
 ---
-layout: recipe
+
 title:  "Thai-style rice pudding"
 tags: dessert thai thailand
 source: https://sortedfood.com/recipe=1151

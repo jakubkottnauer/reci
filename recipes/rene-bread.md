@@ -1,9 +1,9 @@
 ---
-layout: recipe
+
 title:  "Renee’s Famous Soft French Bread"
 tags: france french bread
 source: http://joshlovesit.com/french-bread-recipes/
-serves: 2
+serves: "2"
 ---
 * 2½ cups warm water
 * 1 tablespoon quick-rise active dry yeast

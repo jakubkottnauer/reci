@@ -1,5 +1,5 @@
 ---
-layout: recipe
+
 title:  "Chinese Braised Pork Belly"
 tags: amazing china chinese pork belly
 source: https://kitchenstories.io/en/recipes/braised-pork-belly

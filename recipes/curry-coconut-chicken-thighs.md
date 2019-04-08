@@ -1,9 +1,9 @@
 ---
-layout: recipe
+
 title:  "Curry Coconut Milk Roast Chicken Thighs"
 tags: chicken thighs coconut curry
 source: http://whiteonricecouple.com/recipes/curry-coconut-milk-chicken-thighs
-serves: 2-3
+serves: "2-3"
 ---
 * 2 pounds (1365g) chicken thighs (about 6 thighs), bone-in and skin-on
 kosher or sea salt, to taste

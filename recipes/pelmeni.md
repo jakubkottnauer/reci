@@ -1,5 +1,5 @@
 ---
-layout: recipe
+
 title:  "Pelmeni"
 tags: amazing russian dumplings russia
 source: http://blogs.transparent.com/russian/making-russian-pelmeni/

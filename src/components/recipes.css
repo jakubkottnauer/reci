@@ -36,8 +36,9 @@
   height: 45px;
   padding: 4px;
   border: 2px solid lightgray;
+  color: #4b4c4c;
+  outline: none;
 }
-
 
 .recipe-container .recipe-meta {
   padding: 10px;

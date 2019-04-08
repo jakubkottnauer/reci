@@ -1,9 +1,9 @@
 ---
-layout: recipe
+
 title:  "Puka Yellow Curry"
 tags: india indian dinner
 source: http://www.jamieoliver.com/recipes/chicken-recipes/pukka-yellow-curry/#glcjscmFMECVicBK.97
-serves: 4
+serves: "4"
 ---
 * 2 onions
 * 4 cloves of garlic

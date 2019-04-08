@@ -1,5 +1,5 @@
 ---
-layout: recipe
+
 title:  "Doughnuts"
 tags: sweet doughnuts
 source: http://thepioneerwoman.com/cooking/homemade-glazed-doughnuts/

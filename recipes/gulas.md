@@ -1,9 +1,9 @@
 ---
-layout: recipe
+
 title:  "Guláš"
 tags: amazing beef czech hungarian hungary
 source: http://www.foodlover.cz/2017/02/hovezi-gulas.html
-serves: 4
+serves: "4"
 ---
 * 800 g hovězího masa
 * 500 g nasekané cibule

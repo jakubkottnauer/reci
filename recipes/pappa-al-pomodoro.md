@@ -1,9 +1,9 @@
 ---
-layout: recipe
+
 title:  "Tomato and Bread Soup (Pappa al Pomodoro)"
 tags: amazing soup tomato italy italian
 source: http://www.simplyrecipes.com/recipes/tomato_and_bread_soup_pappa_al_pomodoro
-serves: 6
+serves: "6"
 ---
 * 2 cups diced yellow onion
 * 2 Tbsp olive oil

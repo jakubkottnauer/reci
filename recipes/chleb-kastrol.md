@@ -1,5 +1,5 @@
 ---
-layout: recipe
+
 title:  "Chléb pečený v kastrolu"
 tags: amazing bread
 source: http://www.simplyrecipes.com/recipes/tomato_and_bread_soup_pappa_al_pomodoro

@@ -1,5 +1,5 @@
 ---
-layout: recipe
+
 title:  "Perník"
 tags: amazing czech sweet dessert breakfast
 source: http://zrzkavkuchyni.cz/jablecny-pernik-s-cokoladovou-polevou/

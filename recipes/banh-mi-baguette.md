@@ -1,9 +1,9 @@
 ---
-layout: recipe
+
 title:  "Banh Mi Baguette"
 tags: bread roll vietnam vietnamese
 source: http://www.bakewithpaws.com/?p=1692
-serves: 4 small baguettes
+serves: "4 small baguettes"
 image: banh-mi-baguette.jpg
 
 ---

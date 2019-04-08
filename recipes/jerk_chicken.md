@@ -1,9 +1,9 @@
 ---
-layout: recipe
+
 title:  "Jerk Chicken"
 tags: chicken
 source: https://sortedfood.com/recipe/14160
-serves: 4
+serves: "4"
 image: jerk-chicken.jpg
 ---
 * Chicken

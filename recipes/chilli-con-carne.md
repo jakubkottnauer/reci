@@ -1,10 +1,11 @@
 ---
-layout: recipe
+
 title:  "Chilli con Carne"
 tags: amazing beef dinner
 source: http://www.bbcgoodfood.com/recipes/3228/chilli-con-carne
-serves: 4
+serves: "4"
 rating: 5
+image: chilli-con-carne.jpg
 ---
 * 1 tbsp oil
 * 1 large onion

@@ -1,5 +1,5 @@
 ---
-layout: recipe
+
 title:  "Langose"
 tags: amazing
 ---

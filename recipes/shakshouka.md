@@ -1,5 +1,5 @@
 ---
-layout: recipe
+
 title:  "Shakshouka"
 tags: morocco moroccan
 source: http://cookingwithalia.com/shakshouka-egg-dish-saudi-arabia-recipe-episode-176/

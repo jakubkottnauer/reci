@@ -1,9 +1,9 @@
 ---
-layout: recipe
+
 title:  "Chicken Tikka Masala"
 tags: india indian curry
 source: http://www.mycookingdiary.cz/recept/kureci-tikka-masala/
-serves: 4
+serves: "4"
 related: naan
 ---
 * Na marinádu na maso:

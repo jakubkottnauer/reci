@@ -1,9 +1,9 @@
 ---
-layout: recipe
+
 title:  "Msemmen"
 tags: morocco moroccan
 source: http://cookingwithalia.com/msemmen-moroccan-pancake/
-serves: 4
+serves: "4"
 ---
 * Choux pastry
   * 125 ml milk

@@ -21,6 +21,7 @@
     "react-helmet": "^5.2.0"
   },
   "devDependencies": {
+    "gatsby-plugin-robots-txt": "^1.4.0",
     "gh-pages": "^2.0.1",
     "prettier": "^1.16.4"
   },

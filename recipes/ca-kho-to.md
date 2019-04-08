@@ -1,5 +1,5 @@
 ---
-layout: recipe
+
 title:  "Cá Kho Tộ"
 tags: amazing fish vietnam vietnamese
 source: http://kamurka.cz/?p=288

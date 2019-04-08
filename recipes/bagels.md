@@ -1,5 +1,5 @@
 ---
-layout: recipe
+
 title:  "Bagels"
 tags: amazing bread
 source: http://www.sophisticatedgourmet.com/2009/10/new-york-style-bagel-recipe/

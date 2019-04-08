@@ -1,5 +1,5 @@
 ---
-layout: recipe
+
 title:  "Pain aut lait"
 tags: sweet breakfast dessert
 source: http://zrzkavkuchyni.cz/pain-au-lait-mlecne-zemle/

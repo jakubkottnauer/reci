@@ -1,5 +1,5 @@
 ---
-layout: recipe
+
 title:  "Risotto"
 tags: amazing italy italian
 source: https://sweetcsdesigns.com/one-pot-chicken-risotto/

@@ -1,9 +1,9 @@
 ---
-layout: recipe
+
 title:  "Ravioli"
 tags: amazing italy italian pasta
 source: http://www.bigoven.com/recipe/162071/Ravioli-by-Carmela-Cee-Stanco
-serves: 6
+serves: "6"
 ---
 * 3 cups flour
 * ½ teaspoon salt

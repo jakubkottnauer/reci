@@ -1,9 +1,10 @@
 ---
-layout: recipe
+
 title:  "Kharcho"
 tags: soup georgia georgian
 source: http://natashaskitchen.com/2016/03/29/beef-soup-kharcho/
-serves: 6
+serves: "6"
+image: kharcho.jpg
 ---
 * 3 lb beef stew meat
 * 3 tsp salt

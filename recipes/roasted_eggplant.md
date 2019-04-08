@@ -1,5 +1,5 @@
 ---
-layout: recipe
+
 title:  "Roasted Eggplant"
 tags: veggies
 source: https://www.svetbedynek.cz/recipes/recept-na-zapecene-lilky-s-rajcaty

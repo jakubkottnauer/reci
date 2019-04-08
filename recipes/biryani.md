@@ -1,5 +1,5 @@
 ---
-layout: recipe
+
 title:  "Chicken Biryani"
 tags: india indian rice
 source: https://www.youtube.com/watch?v=PmqdA05OXuI
@@ -21,7 +21,7 @@ source: https://www.youtube.com/watch?v=PmqdA05OXuI
   * 2 tsp ghee
   * 2 peeled potatoes
   * 3 green cardamoms
-  * 1 black cardamom 
+  * 1 black cardamom
   * 4 cloves
   * 1 inch cinnamon stick
   * 1 bay leaf
@@ -29,12 +29,12 @@ source: https://www.youtube.com/watch?v=PmqdA05OXuI
   * 600 g chicken thighs
   * Salt as required
   * 1/2 tsp turmeric
-  * 1 tbsp chilli pwd 
+  * 1 tbsp chilli pwd
   * 1 cup dahi
   * 1 tbsp ginger-garlic paste
   * 1 large onion (golden fry)
   * 1/2 cup chopped tomatoes
-  * Water as required 
+  * Water as required
   * 2 boiled eggs
 * Garnish
   * 1 large onion (golden fry)

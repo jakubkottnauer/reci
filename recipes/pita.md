@@ -1,5 +1,5 @@
 ---
-layout: recipe
+
 title:  "Pita Bread"
 tags: amazing bread
 source: http://zrzkavkuchyni.cz/recke-tapas/

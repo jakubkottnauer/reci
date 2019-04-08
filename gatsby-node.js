@@ -1,5 +1,6 @@
 const path = require('path')
 const { createFilePath } = require(`gatsby-source-filesystem`)
+const { uniqBy } = require('ramda')
 
 exports.createPages = ({ actions, graphql }) => {
   const { createPage } = actions
@@ -44,12 +45,65 @@ exports.createPages = ({ actions, graphql }) => {
 
 exports.onCreateNode = ({ node, getNode, actions }) => {
   const { createNodeField } = actions
-  if (node.internal.type === `MarkdownRemark`) {
-    const slug = createFilePath({ node, getNode, basePath: `recipes` })
+  if (node.internal.type === 'MarkdownRemark') {
+    const slug = createFilePath({ node, getNode, basePath: 'recipes' })
     createNodeField({
       node,
-      name: `slug`,
+      name: 'slug',
       value: slug,
     })
   }
+}
+
+exports.sourceNodes = ({ actions, getNodes, getNode }) => {
+  const { createNodeField } = actions
+
+  const relatedRecipes = {}
+
+  const getRecipeById = id =>
+    getNodes().find(
+      n => n.internal.type === 'MarkdownRemark' && n.fields.slug === `/${id}/`
+    )
+  const extractData = node => ({
+    id: node.id,
+    slug: node.fields.slug,
+    title: node.frontmatter.title,
+  })
+
+  const markdownNodes = getNodes()
+    .filter(node => node.internal.type === 'MarkdownRemark')
+    .forEach(node => {
+      if (node.frontmatter.related) {
+        const found =
+          node.frontmatter.related instanceof Array
+            ? node.frontmatter.related.map(getRecipeById)
+            : [getRecipeById(node.frontmatter.related)]
+
+        found
+          .filter(n => n)
+          .map(n => {
+            // if it's first time for this author init empty array for his books
+            if (!relatedRecipes[n.id]) {
+              relatedRecipes[n.id] = []
+            }
+
+            if (!relatedRecipes[node.id]) {
+              relatedRecipes[node.id] = []
+            }
+
+            relatedRecipes[n.id].push(extractData(node))
+            relatedRecipes[node.id].push(extractData(n))
+          })
+      }
+    })
+
+  Object.entries(relatedRecipes).forEach(([recipeId, data]) => {
+    const currentRecipe = getNode(recipeId)
+    const filteredData = uniqBy(x => x.id, data)
+    createNodeField({
+      node: currentRecipe,
+      name: 'relatedRecipes',
+      value: filteredData,
+    })
+  })
 }

@@ -1,9 +1,10 @@
 ---
-layout: recipe
+
 title:  "Greek Rice Pilaf"
 tags: pilaf greece greek meat amazing
 source: http://www.seriouseats.com/recipes/2014/03/greek-style-pila-chicken-thighs-recipe.html
-serves: 4
+serves: "4"
+image: greek-pilaf.jpg
 ---
 * 1 pound skin-on chicken thighs
 * Kosher salt and freshly ground black pepper

@@ -1,9 +1,9 @@
 ---
-layout: recipe
+
 title:  "Sufganiyot"
 tags: amazing sweet dessert breakfast doughnut
 source: https://judicialpeach.com/2009/12/21/sufganiyot-jelly-doughnuts/
-serves: 20 doughnuts
+serves: "20 doughnuts"
 ---
 * Dough
   * 1 package dried yeast (1 tablespoon)

@@ -1,5 +1,5 @@
 ---
-layout: recipe
+
 title:  "Kugelis"
 tags: lithuania lithuanian potatoes
 source: https://myfoododyssey.com/2016/02/28/lithuanian-kugelis-potato-pudding/
