@@ -1,4 +1,4 @@
-_site
-.sass-cache
-.jekyll-metadata
-_site/
+.DS_STORE
+node_modules
+yarn-error.log
+public
