@@ -4,7 +4,7 @@ title:  "Bábovka"
 tags: czech sweet dessert
 source: http://www.foodlover.cz/2017/11/cokoladova-babovka.html
 image: babovka.jpg
-
+lang: cz
 ---
 * 120 g másla
 * 3 vejce

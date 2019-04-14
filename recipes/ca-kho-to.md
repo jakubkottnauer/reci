@@ -1,8 +1,8 @@
 ---
-
 title:  "Cá Kho Tộ"
 tags: amazing fish vietnam vietnamese
 source: http://kamurka.cz/?p=288
+lang: cz
 ---
 * 500g masa ze sumce nebo kapra (očištěné a nakrájené na zhruba 2cm tlusté plátky)
 * 4 lžíce cukru

@@ -1,5 +1,4 @@
 ---
-
 title:  "Langose"
 tags: amazing
 image: langose.jpg
