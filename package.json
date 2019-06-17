@@ -5,15 +5,15 @@
   "version": "0.1.0",
   "author": "Jakub Kottnauer <jk@jakubkottnauer.com>",
   "dependencies": {
-    "gatsby": "2.5.2",
-    "gatsby-image": "^2.1.0",
+    "gatsby": "2.9.4",
+    "gatsby-image": "^2.1.4",
     "gatsby-plugin-manifest": "^2.1.1",
-    "gatsby-plugin-offline": "^2.1.0",
+    "gatsby-plugin-offline": "^2.1.3",
     "gatsby-plugin-react-helmet": "^3.0.12",
-    "gatsby-plugin-sharp": "^2.0.37",
-    "gatsby-source-filesystem": "^2.0.36",
-    "gatsby-transformer-remark": "^2.3.12",
-    "gatsby-transformer-sharp": "^2.1.19",
+    "gatsby-plugin-sharp": "^2.1.5",
+    "gatsby-source-filesystem": "^2.0.39",
+    "gatsby-transformer-remark": "^2.4.0",
+    "gatsby-transformer-sharp": "^2.1.21",
     "prop-types": "^15.7.2",
     "ramda": "^0.26.1",
     "react": "^16.8.6",
@@ -23,7 +23,7 @@
   "devDependencies": {
     "gatsby-plugin-robots-txt": "^1.4.0",
     "gh-pages": "^2.0.1",
-    "prettier": "^1.17.1"
+    "prettier": "^1.18.2"
   },
   "license": "MIT",
   "scripts": {
