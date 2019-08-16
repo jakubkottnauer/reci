@@ -5,7 +5,7 @@
   "version": "0.1.0",
   "author": "Jakub Kottnauer <jk@jakubkottnauer.com>",
   "dependencies": {
-    "gatsby": "2.13.3",
+    "gatsby": "2.13.65",
     "gatsby-image": "^2.2.4",
     "gatsby-plugin-manifest": "^2.2.1",
     "gatsby-plugin-offline": "^2.2.1",
