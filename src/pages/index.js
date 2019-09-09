@@ -12,28 +12,46 @@ const IndexPage = ({ data }) => {
   const [filter, setFilter] = useState('')
 
   const recipeGroups = pipe(
-    filterBy(({ node }) =>
-      node.frontmatter.title.toLowerCase().startsWith(filter.toLowerCase())
+    filterBy(
+      ({ node }) =>
+        node.frontmatter.title.toLowerCase().indexOf(filter.toLowerCase()) > -1
     ),
     groupBy(recipe => recipe.node.frontmatter.title[0]),
     toPairs,
     sort((a, b) => a[0].localeCompare(b[0]))
   )(data.allMarkdownRemark.edges)
-
+  console.log(filter)
   return (
     <Layout>
       <Helmet title="Home" />
+      <div className="jump-top-button" onClick={() => window.scrollTo(0, 0)}>
+        UP
+      </div>
       <div>
         <input
           className="recipe-filter"
           onChange={e => setFilter(e.currentTarget.value)}
-          placeholder="  🔍"
+          placeholder="🔍"
+          value={filter}
         />
+        <span className="clear-recipe-filter" onClick={() => setFilter('')}>
+          ✖
+        </span>
+      </div>
+      <div className="recipe-alphabet">
+        {[...new Array(26)]
+          .map((x, i) => {
+            const letter = (i + 10).toString(36).toUpperCase()
+            return <a href={`#${letter}`}>{letter}</a>
+          })
+          .reduce((prev, curr) => [prev, ' | ', curr])}
       </div>
       <div className="recipe-list">
         {recipeGroups.map(group => (
           <div className="recipe-group" key={group[0]}>
-            <div className="recipe-group-heading">{group[0]}</div>
+            <div className="recipe-group-heading" name={group[0]}>
+              {group[0]}
+            </div>
             <div className="recipe-group-content">
               {group[1].map(({ node }) => (
                 <Link
