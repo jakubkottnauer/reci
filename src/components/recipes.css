@@ -112,3 +112,8 @@
 .recipe-alphabet a:hover {
   text-decoration: underline;
 }
+
+.recipe-alphabet a.disabled {
+  pointer-events: none;
+  opacity: 0.2;
+}

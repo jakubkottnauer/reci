@@ -42,7 +42,13 @@ const IndexPage = ({ data }) => {
         {[...new Array(26)]
           .map((x, i) => {
             const letter = (i + 10).toString(36).toUpperCase()
-            return <a href={`#${letter}`}>{letter}</a>
+            const exists = recipeGroups.find(g => g[0] === letter)
+            const className = !exists ? 'disabled' : undefined
+            return (
+              <a href={`#${letter}`} className={className}>
+                {letter}
+              </a>
+            )
           })
           .reduce((prev, curr) => [prev, ' | ', curr])}
       </div>
