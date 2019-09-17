@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import React, { useState, useRef } from 'react'
 import { Link, graphql } from 'gatsby'
 
 import Layout from '../components/layout'
@@ -10,6 +10,12 @@ import { filter as filterBy, groupBy, toPairs, pipe, sort } from 'ramda'
 
 const IndexPage = ({ data }) => {
   const [filter, setFilter] = useState('')
+  const filterInput = useRef(null);
+
+  const resetFilter= () => {
+    setFilter('')
+    filterInput.current.focus()
+  }
 
   const recipeGroups = pipe(
     filterBy(
@@ -20,7 +26,7 @@ const IndexPage = ({ data }) => {
     toPairs,
     sort((a, b) => a[0].localeCompare(b[0]))
   )(data.allMarkdownRemark.edges)
-  console.log(filter)
+
   return (
     <Layout>
       <Helmet title="Home" />
@@ -33,8 +39,9 @@ const IndexPage = ({ data }) => {
           onChange={e => setFilter(e.currentTarget.value)}
           placeholder="🔍"
           value={filter}
+          ref={filterInput}
         />
-        <span className="clear-recipe-filter" onClick={() => setFilter('')}>
+        <span className="clear-recipe-filter" onClick={resetFilter}>
           ✖
         </span>
       </div>

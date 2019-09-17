@@ -89,6 +89,7 @@
   align-items: center;
   justify-content: center;
   color: white;
+  z-index: 99999;
 }
 
 .jump-top-button:hover {
