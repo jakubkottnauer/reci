@@ -1,29 +1,28 @@
 ---
-
-title:  "Balinese Chicken Curry"
+title: 'Balinese Chicken Curry'
 tags: amazing curry bali
 source: http://www.jamieoliver.com/recipes/curry-recipes/balinese-chicken-curry/
 image: balinese-chicken-curry.jpg
-
 ---
-* 4cm piece of ginger
-* 4 cloves of garlic
-* 1 bunch of spring onions
-* 2 fresh red chillies
-* 40g cashew nuts
-* 4 kaffir lime leaves
-* 1 teaspoon ground turmeric
-* 2 teaspoons fish sauce
-* 300g oyster mushrooms
-* 1 ripe mango
-* 3 x 200g skinless free-range chicken breasts
-* olive oil
-* 500g fine green beans
-* 2 limes
-* 1 x 400ml tin of light coconut milk
-* 450g basmati rice
-* 250g purple kale
-* 2 sticks of lemongrass
+
+- **4cm** piece of ginger
+- **4** cloves of garlic
+- **1** bunch of spring onions
+- **2** fresh red chillies
+- **40g** cashew nuts
+- **4** kaffir lime leaves
+- **1** teaspoon ground turmeric
+- **2** teaspoons fish sauce
+- **300g** oyster mushrooms
+- **1** ripe mango
+- **600g** chicken breasts
+- olive oil
+- **500g** fine green beans
+- 2 limes
+- **400ml** coconut milk
+- **450g** basmati rice
+- **250g** purple kale
+- **2** sticks of lemongrass
 
 Peel the ginger and garlic, trim the spring onions, halve and deseed 1 chilli, then char and soften it all in a large casserole pan on a medium-high heat with the cashews until everything is just starting to catch, tossing often. Tip into a blender with the lime leaves, turmeric, fish sauce, 1 teaspoon of black pepper and a pinch of sea salt and blitz into a paste.
 
