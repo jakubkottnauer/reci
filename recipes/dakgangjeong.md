@@ -1,24 +1,24 @@
 ---
-
-title:  "Chicken Wings Dakgangjeong"
+title: 'Chicken Wings Dakgangjeong'
 tags: amazing korea korean chicken wings
 source: http://www.maangchi.com/recipe/easy-dakgangjeong
 ---
-* 3½ pounds chicken wings (about 1.6 kg), washed and drained
-* ½ teaspoon salt
-* ½ teaspoon ground black pepper
-* 1 teaspoon minced ginger
-* 2/3 cup potato starch or corn starch
-* 1/3 cup peanuts (optional)
-* 4 cloves garlic, minced
-* 3 to 4 large dried red chili peppers, seeded, cut crosswise into ⅓ inch pieces (optional)
-* ¼ cup soy sauce
-* ½ cup rice syrup or corn syrup
-* 1 tablespoon white vinegar
-* 1 tablespoon mustard (optional)
-* 1 tablespoon brown sugar
-* 1 tablespoon sesame seeds
-* Grapeseed oil (or vegetable oil, peanut oil)
+
+- **1.5 kg** chicken wings
+- **1/2 tsp** salt
+- **1/2 tsp** ground black pepper
+- **1 tsp** minced ginger
+- **2/3 cup** potato starch or corn starch
+- **1/3 cup** peanuts (optional)
+- **4 cloves** garlic, minced
+- **3 to 4** large dried red chili peppers, seeded, cut crosswise into ⅓ inch pieces (optional)
+- **1/4 cup** soy sauce
+- **1/2 cup** rice syrup or corn syrup
+- **1 tbsp** white vinegar
+- **1 tbsp** mustard (optional)
+- **1 tbsp** brown sugar
+- **1 tbsp** sesame seeds
+- Grapeseed oil (or vegetable oil, peanut oil)
 
 Cut off the tip of each wing and chop the wing in half. After this is done you should have about 3 pounds of chicken, with 24 to 26 pieces.
 
@@ -34,7 +34,7 @@ Add soy sauce, rice syrup, vinegar, and mustard sauce (optional). Stir with a wo
 
 Add the brown sugar and continue stirring. Remove from the heat. Set aside.
 
-Put 4 cups of cooking oil in a frying pan or pot and heat it up for 7 to 8 minutes over  high heat.
+Put 4 cups of cooking oil in a frying pan or pot and heat it up for 7 to 8 minutes over high heat.
 
 See if the oil’s ready by dipping a test wing into it. If the oil bubbles, it’s hot enough to start frying. Slide the coated wings one by one into the hot oil and cook for about 12 to 13 minutes, turning over a few times with tongs.
 
@@ -46,4 +46,4 @@ When the chicken is done, reheat the sauce until it bubbles.
 
 Add the hot chicken and mix well with a wooden spoon to coat.
 
-Remove from the heat and transfer the coated chicken to a large platter. Sprinkle  some sesame seeds over top and serve immediately. This chicken won’t lose its crunchiness, even by the next day.
+Remove from the heat and transfer the coated chicken to a large platter. Sprinkle some sesame seeds over top and serve immediately. This chicken won’t lose its crunchiness, even by the next day.
