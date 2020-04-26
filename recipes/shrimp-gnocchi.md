@@ -1,27 +1,25 @@
 ---
-
-title: "Shrimp and gnocchi with garlic parmesan sauce"
+title: 'Shrimp and gnocchi with garlic parmesan sauce'
 tags: italy italian seafood shrimp
 source: https://damndelicious.net/2016/12/17/shrimp-and-gnocchi-with-garlic-parmesan-cream-sauce/
-serves: "4"
+serves: '4'
 related: gnocchi
 image: shrimp-gnocchi.jpg
 ---
-* 500 g package DeLallo Potato Gnocchi
-* 2 tablespoons unsalted butter
-* 500 g medium shrimp, peeled and deveined
-* Kosher salt and freshly ground black pepper, to taste
-* 2 tablespoons chopped fresh parsley leaves
-* Sauce
-  * 1/4 cup unsalted butter
-  * 4 cloves garlic, minced
-  * 2 tablespoons all-purpose flour
-  * 1 cup chicken broth, or more, as needed
-  * 1 teaspoon dried thyme
-  * 1/2 teaspoon dried basil
-  * 1/4 water + 1/4 milk
-  * 1/2 cup freshly grated Parmesan
-  * Kosher salt and freshly ground black pepper, to taste
+
+- **500 g** package DeLallo Potato Gnocchi
+- **2 tbsp** unsalted butter
+- **500 g** medium shrimp, peeled and deveined
+- **2 tbsp** chopped fresh parsley leaves
+- Sauce
+  - **1/4 cup** unsalted butter
+  - **4 cloves** garlic, minced
+  - **2 tbsp** all-purpose flour
+  - **1 cup** chicken broth, or more, as needed
+  - **1 teaspoon** dried thyme
+  - **1/2 teaspoon** dried basil
+  - **1/4 cup** water + 1/4 milk
+  - **1/2 cup** freshly grated Parmesan
 
 In a large pot of boiling salted water, cook gnocchi according to package instructions; drain well.
 

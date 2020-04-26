@@ -76,8 +76,9 @@
   margin-top: 20px;
   text-align: center;
   color: #4b4c4c;
-  padding: 2px;
+  padding-bottom: 2px;
   border: 1px solid transparent;
+  margin-left: 2px;
 }
 
 .recipe-list .recipe:hover {
