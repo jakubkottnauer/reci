@@ -63,17 +63,17 @@
 
 .recipe-list .recipe-group-heading {
   width: 100%;
-  font-size: 60px;
+  font-size: 50px;
   color: lightgray;
-  margin-top: 50px;
+  margin-top: 30px;
   border-bottom: 1px solid lightgray;
   height: 50px;
 }
 
 .recipe-list .recipe {
-  width: 170px;
-  font-size: 18px;
-  margin-top: 20px;
+  width: 160px;
+  font-size: 16px;
+  margin-top: 10px;
   text-align: center;
   color: #4b4c4c;
   padding-bottom: 2px;
