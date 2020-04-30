@@ -1,25 +1,25 @@
 ---
-
-title:  "Chinese Pineapple Chicken"
-tags: amazing chicken china chinese
+title: 'Chinese Pineapple Chicken'
+tags: amazing chicken china chinese asian
 source: https://soupbelly.com/2010/07/29/chinese-pineapple-chicken/
 image: pineapple-chicken.jpg
 ---
-* Chicken
-  * 2 chicken breasts
-  * 2 Tbsp. soy sauce
-  * 1 tsp. sesame oil
-  * 1 egg
-  * 1/4 tsp. pepper
-  * 3 Tbsp. flour
-  * 3 Tbsp cornstarch
-  * corn or canola oil for frying
-* Sauce
-  * 1 cup pineapple chunks
-  * 1 cup pineapple juice
-  * 1 Tbsp. cornstarch + 1 Tbsp. water
-  * 1 Tbsp. soy sauce
-  * A bit of rice vinegar
+
+- Chicken
+  - **2** chicken breasts
+  - **2 tbsp** soy sauce
+  - **1 tsp** sesame oil
+  - **1** egg
+  - **1/4 tsp** pepper
+  - **3 tbsp** flour
+  - **3 tbsp** cornstarch
+  - corn or canola oil for frying
+- Sauce
+  - **1 cup** pineapple chunks
+  - **1 cup** pineapple juice
+  - **1 tbsp** cornstarch + **1 tbsp** water
+  - **1 tbsp** soy sauce
+  - A bit of rice vinegar
 
 In a bowl, cut 2 chicken breasts into chunks. Add soy sauce, sesame oil, pepper and egg. Cover and let marinate in fridge for at least 2 hours.
 
