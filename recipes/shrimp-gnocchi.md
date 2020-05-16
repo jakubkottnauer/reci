@@ -7,7 +7,7 @@ related: gnocchi
 image: shrimp-gnocchi.jpg
 ---
 
-- **500 g** package DeLallo Potato Gnocchi
+- **500 g** gnocchi
 - **2 tbsp** unsalted butter
 - **500 g** medium shrimp, peeled and deveined
 - **2 tbsp** chopped fresh parsley leaves
@@ -18,7 +18,7 @@ image: shrimp-gnocchi.jpg
   - **1 cup** chicken broth, or more, as needed
   - **1 teaspoon** dried thyme
   - **1/2 teaspoon** dried basil
-  - **1/4 cup** water + 1/4 milk
+  - **1/4 cup** water + **1/4 cup** milk
   - **1/2 cup** freshly grated Parmesan
 
 In a large pot of boiling salted water, cook gnocchi according to package instructions; drain well.

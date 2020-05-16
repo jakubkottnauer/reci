@@ -1,7 +1,7 @@
 import React from 'react'
 import { graphql, Link } from 'gatsby'
 import Layout from '../components/layout'
-import Helmet from 'react-helmet'
+import { Helmet } from 'react-helmet'
 
 export default function Template({ data }) {
   const { markdownRemark } = data

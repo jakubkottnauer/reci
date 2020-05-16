@@ -5,14 +5,14 @@ import Layout from '../components/layout'
 import Image from '../components/image'
 
 import Img from 'gatsby-image'
-import Helmet from 'react-helmet'
+import { Helmet } from 'react-helmet'
 import { filter as filterBy, groupBy, toPairs, pipe, sort } from 'ramda'
 
 const IndexPage = ({ data }) => {
   const [filter, setFilter] = useState('')
-  const filterInput = useRef(null);
+  const filterInput = useRef(null)
 
-  const resetFilter= () => {
+  const resetFilter = () => {
     setFilter('')
     filterInput.current.focus()
   }
