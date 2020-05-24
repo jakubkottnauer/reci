@@ -2,8 +2,9 @@ import React from 'react'
 import { graphql, Link } from 'gatsby'
 import Layout from '../components/layout'
 import { Helmet } from 'react-helmet'
+import { remarkForm } from 'gatsby-tinacms-remark'
 
-export default function Template({ data }) {
+function Template({ data }) {
   const { markdownRemark } = data
   const { frontmatter, html, fields } = markdownRemark
 
@@ -38,7 +39,7 @@ export default function Template({ data }) {
             <div className="recipe-meta">
               <ul>
                 Related recipe{fields.relatedRecipes.length > 1 ? 's' : ''}:
-                {fields.relatedRecipes.map(r => (
+                {fields.relatedRecipes.map((r) => (
                   <li key={r.slug}>
                     <Link to={r.slug}>{r.title}</Link>
                   </li>
@@ -46,20 +47,72 @@ export default function Template({ data }) {
               </ul>
             </div>
           )}
-          <Recipe text={html} />
+          <Recipe text={html} ingredients={fields.ingredients} />
         </div>
       </div>
     </Layout>
   )
 }
 
-const Recipe = ({ text }) => {
+const RecipeForm = {
+  fields: [
+    {
+      label: 'Name',
+      name: 'frontmatter.title',
+      description: 'Name of the recipe',
+      component: 'text',
+    },
+    {
+      label: 'Date',
+      name: 'rawFrontmatter.date',
+      component: 'date',
+      dateFormat: 'YYYY-MM-DD',
+      timeFormat: false,
+    },
+    {
+      label: 'Serves',
+      name: 'frontmatter.serves',
+      component: 'text',
+    },
+    {
+      label: 'Source',
+      name: 'frontmatter.source',
+      component: 'text',
+    },
+    {
+      label: 'Tags',
+      name: 'frontmatter.tags',
+      component: 'text',
+    },
+    {
+      label: 'Image',
+      name: 'frontmatter.image',
+      component: 'text',
+    },
+    {
+      label: 'Ingredients',
+      name: 'rawFrontmatter.ingredients',
+      component: 'markdown',
+    },
+    {
+      label: 'Text',
+      name: 'rawMarkdownBody',
+      component: 'markdown',
+    },
+  ],
+}
+
+export default remarkForm(Template, RecipeForm)
+
+const Recipe = ({ text, ingredients: sourceIngredients }) => {
   let recipe = text
-  let ingredients
+  let ingredients = sourceIngredients
   // Try to split by end of ingredient list
   const splitBy = '</ul>'
   const idx = text.lastIndexOf(splitBy)
-  if (idx > -1) {
+
+  // if individual ingredients aren't specified, extract them from recipe text
+  if (idx > -1 && !ingredients) {
     ingredients = text.substr(0, idx + splitBy.length)
     recipe = text.substr(idx + splitBy.length)
   }
@@ -90,11 +143,13 @@ export const pageQuery = graphql`
         source
       }
       fields {
+        ingredients
         relatedRecipes {
           slug
           title
         }
       }
+      ...TinaRemark
     }
   }
 `

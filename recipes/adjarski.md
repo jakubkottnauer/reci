@@ -1,21 +1,20 @@
 ---
-title: "Adjarian Khachapuri"
-source: "https://www.cookingwithalia.com/adjarian-khachapuri-part-1-the-dough/"
-tags: "amazing georgia georgian bread cheese"
+title: Adjarian Khachapuri
+source: 'https://www.cookingwithalia.com/adjarian-khachapuri-part-1-the-dough/'
+tags: amazing georgia georgian bread cheese
 image: adjarski.jpg
-date: "2019-01-01"
+date: '2019-01-01'
 serves: 5 khachapuris
+ingredients: |-
+  * 400 g all-purpose flour
+  * 6 g salt
+  * 90 g starter (flour + water + yeast)
+  * 260 ml luke-warm water
+  * Olive oil
+  * Mozzarella/sulguni cheese
+  * Feta cheese (Greek or Bulgarian)
+  * Eggs
 ---
-
-* 400 g all-purpose flour
-* 6 g salt
-* 90 g starter (flour + water + yeast)
-* 260 ml luke-warm water
-* Olive oil
-* Mozzarella/sulguni cheese
-* Feta cheese (Greek or Bulgarian)
-* Eggs
-
 Mix equal amounts of flour and water (one cup each) and yeast (dry or fresh yeast). You need 1 tablespoon of yeast for each cup of flour. Cover the mixture and place it in your refrigerator for 24 hours.
 
 In this recipe, you will need 180 grams of starter.

@@ -1,6 +1,8 @@
 const path = require('path')
 const { createFilePath } = require(`gatsby-source-filesystem`)
 const { uniqBy } = require('ramda')
+const remark = require('remark')
+const remarkHTML = require('remark-html')
 
 exports.createPages = ({ actions, graphql }) => {
   const { createPage } = actions
@@ -26,7 +28,7 @@ exports.createPages = ({ actions, graphql }) => {
         }
       }
     }
-  `).then(result => {
+  `).then((result) => {
     if (result.errors) {
       return Promise.reject(result.errors)
     }
@@ -53,6 +55,17 @@ exports.onCreateNode = ({ node, getNode, actions }) => {
       value: slug,
     })
   }
+
+  if (node.frontmatter && node.frontmatter.ingredients) {
+    const ingredients = node.frontmatter.ingredients
+    const value = remark().use(remarkHTML).processSync(ingredients).toString()
+
+    createNodeField({
+      name: 'ingredients',
+      node,
+      value,
+    })
+  }
 }
 
 exports.sourceNodes = ({ actions, getNodes, getNode }) => {
@@ -60,19 +73,19 @@ exports.sourceNodes = ({ actions, getNodes, getNode }) => {
 
   const relatedRecipes = {}
 
-  const getRecipeById = id =>
+  const getRecipeById = (id) =>
     getNodes().find(
-      n => n.internal.type === 'MarkdownRemark' && n.fields.slug === `/${id}/`
+      (n) => n.internal.type === 'MarkdownRemark' && n.fields.slug === `/${id}/`
     )
-  const extractData = node => ({
+  const extractData = (node) => ({
     id: node.id,
     slug: node.fields.slug,
     title: node.frontmatter.title,
   })
 
   const markdownNodes = getNodes()
-    .filter(node => node.internal.type === 'MarkdownRemark')
-    .forEach(node => {
+    .filter((node) => node.internal.type === 'MarkdownRemark')
+    .forEach((node) => {
       if (node.frontmatter.related) {
         const found =
           node.frontmatter.related instanceof Array
@@ -80,8 +93,8 @@ exports.sourceNodes = ({ actions, getNodes, getNode }) => {
             : [getRecipeById(node.frontmatter.related)]
 
         found
-          .filter(n => n)
-          .map(n => {
+          .filter((n) => n)
+          .map((n) => {
             // if it's first time for this author init empty array for his books
             if (!relatedRecipes[n.id]) {
               relatedRecipes[n.id] = []
@@ -99,7 +112,7 @@ exports.sourceNodes = ({ actions, getNodes, getNode }) => {
 
   Object.entries(relatedRecipes).forEach(([recipeId, data]) => {
     const currentRecipe = getNode(recipeId)
-    const filteredData = uniqBy(x => x.id, data)
+    const filteredData = uniqBy((x) => x.id, data)
     createNodeField({
       node: currentRecipe,
       name: 'relatedRecipes',
