@@ -2,7 +2,7 @@ import React from 'react'
 import { graphql, Link } from 'gatsby'
 import { Helmet } from 'react-helmet'
 import { remarkForm } from 'gatsby-tinacms-remark'
-import { BsFillPeopleFill, BsLink45Deg } from 'react-icons/bs'
+import { BsFillPeopleFill, BsLink45Deg, BsLink } from 'react-icons/bs'
 import Layout from '../components/layout'
 
 function Template({ data }) {
@@ -36,7 +36,22 @@ function Template({ data }) {
                 <span className="text">{frontmatter.serves}</span>
               </div>
             )}
+            {fields.relatedRecipes && (
+              <div className="section-with-icon">
+                <BsLink />
+                <span className="text">
+                  {fields.relatedRecipes
+                    .map((r) => (
+                      <Link key={r.slug} to={r.slug}>
+                        {r.title}
+                      </Link>
+                    ))
+                    .reduce((prev, curr) => [prev, ', ', curr])}
+                </span>
+              </div>
+            )}
           </div>
+
           <div style={{ float: 'right' }}>
             {frontmatter.tags && (
               <div>
@@ -46,19 +61,6 @@ function Template({ data }) {
               </div>
             )}
           </div>
-
-          {fields.relatedRecipes && (
-            <div className="section-related-recipes">
-              Related recipe{fields.relatedRecipes.length > 1 ? 's' : ''}:
-              <ul>
-                {fields.relatedRecipes.map((r) => (
-                  <li key={r.slug}>
-                    <Link to={r.slug}>{r.title}</Link>
-                  </li>
-                ))}
-              </ul>
-            </div>
-          )}
         </div>
 
         <Recipe text={html} ingredients={fields.ingredients} />

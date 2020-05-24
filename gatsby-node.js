@@ -83,7 +83,7 @@ exports.sourceNodes = ({ actions, getNodes, getNode }) => {
     title: node.frontmatter.title,
   })
 
-  const markdownNodes = getNodes()
+  getNodes()
     .filter((node) => node.internal.type === 'MarkdownRemark')
     .forEach((node) => {
       if (node.frontmatter.related) {

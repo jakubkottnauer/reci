@@ -1,6 +1,6 @@
 ---
-title: 'Gyozas'
-source: http://steamykitchen.com/5874-gyoza-recipe-japanese-pan-fried-dumplings.html
+title: Gyozas
+source: 'http://steamykitchen.com/5874-gyoza-recipe-japanese-pan-fried-dumplings.html'
 tags: japan japanese dumplings
 image: gyozas.jpg
 related: dumpling-wrappers
@@ -17,7 +17,7 @@ related: dumpling-wrappers
 - **1 tsp** crushed red chili pepper
 - **¼ tsp** sugar
 - 40 dumpling wrappers
-- For cooking the dumplings:
+- For cooking the dumplings
   - **1 tbsp** sesame oil
   - **1/2 cup** water
 - Dipping Sauce

@@ -53,7 +53,7 @@ $text-secondary-color: lightgray;
     margin-bottom: 20px;
     margin-top: 20px;
     font-size: 0.8rem;
-    min-height: 40px;
+    overflow: auto;
 
     .section-with-icon {
       display: flex;
@@ -63,10 +63,6 @@ $text-secondary-color: lightgray;
         display: inline-block;
         margin-left: 5px;
       }
-    }
-
-    .section-related-recipes {
-      margin-top: 20px;
     }
   }
 
