@@ -50,7 +50,7 @@ $text-secondary-color: lightgray;
   .recipe-meta {
     border-radius: 5px;
     text-decoration: none;
-    margin-bottom: 40px;
+    margin-bottom: 20px;
     margin-top: 20px;
     font-size: 0.8rem;
     min-height: 40px;
@@ -108,7 +108,7 @@ $text-secondary-color: lightgray;
       }
 
       & > ul > li > ul {
-        margin-left: 12px;
+        margin-left: 10px;
       }
     }
   }
