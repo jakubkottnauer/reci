@@ -21,11 +21,10 @@ function Template({ data }) {
               <div className="section-with-icon">
                 <BsLink45Deg />
                 <a
-                  className="original-link"
+                  className="text"
                   target="_blank"
                   href={frontmatter.source}
                   rel="noopener noreferrer"
-                  className="text"
                 >
                   original recipe
                 </a>
@@ -68,13 +67,15 @@ function Template({ data }) {
   )
 }
 
-const RecipeForm = {
+export const recipeForm = {
   fields: [
     {
       label: 'Name',
       name: 'frontmatter.title',
-      description: 'Name of the recipe',
+      description:
+        'Something short but descriptive enougg, e.g. "Chicken Curry", "Sweet and Sour Chicken"',
       component: 'text',
+      required: true,
     },
     {
       label: 'Date',
@@ -93,11 +94,13 @@ const RecipeForm = {
       label: 'Source',
       name: 'frontmatter.source',
       component: 'text',
+      description: 'URL of the original video/article',
     },
     {
       label: 'Tags',
       name: 'frontmatter.tags',
       component: 'text',
+      description: 'Space-separated list of tags',
     },
     {
       label: 'Image',
@@ -113,11 +116,12 @@ const RecipeForm = {
       label: 'Text',
       name: 'rawMarkdownBody',
       component: 'markdown',
+      required: true,
     },
   ],
 }
 
-export default remarkForm(Template, RecipeForm)
+export default remarkForm(Template, recipeForm)
 
 const Recipe = ({ text, ingredients: sourceIngredients }) => {
   let recipe = text

@@ -2,10 +2,26 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import { StaticQuery, graphql } from 'gatsby'
 import { Helmet } from 'react-helmet'
+import { withPlugin } from 'tinacms'
+import { RemarkCreatorPlugin } from 'gatsby-tinacms-remark'
 
 import Header from './header'
 import './layout.scss'
 import './recipes.scss'
+import { recipeForm } from '../templates/recipeTemplate'
+
+const CreateRecipe = new RemarkCreatorPlugin({
+  label: 'Create Recipe',
+  fields: recipeForm.fields,
+  filename: (form) => {
+    const slug = form.title.trim().replace(/\s+/, '-').toLowerCase()
+    return `recipes/${slug}.md`
+  },
+  frontmatter: (form) => ({
+    title: form.title,
+    date: new Date(),
+  }),
+})
 
 const Layout = ({ children }) => (
   <StaticQuery
@@ -41,4 +57,4 @@ Layout.propTypes = {
   children: PropTypes.node.isRequired,
 }
 
-export default Layout
+export default withPlugin(Layout, CreateRecipe)
