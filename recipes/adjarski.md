@@ -14,6 +14,8 @@ ingredients: |-
   * Mozzarella/sulguni cheese
   * Feta cheese (Greek or Bulgarian)
   * Eggs
+lang: en
+related: ''
 ---
 Mix equal amounts of flour and water (one cup each) and yeast (dry or fresh yeast). You need 1 tablespoon of yeast for each cup of flour. Cover the mixture and place it in your refrigerator for 24 hours.
 

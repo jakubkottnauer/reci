@@ -88,8 +88,21 @@ export const recipeForm = {
       description: 'Date when the recipe was created, YYYY-MM-DD',
     },
     {
+      name: 'frontmatter.lang',
+      component: 'select',
+      label: 'Language',
+      description: 'Language of the recipe',
+      options: ['en', 'cz', 'se'],
+    },
+    {
       label: 'Serves',
       name: 'frontmatter.serves',
+      component: 'text',
+    },
+    {
+      label: 'Related recipes',
+      name: 'frontmatter.related',
+      description: 'Space-separated list of filenames of related recipes',
       component: 'text',
     },
     {

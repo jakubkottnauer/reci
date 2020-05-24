@@ -1,9 +1,8 @@
 ---
-
-title:  "French Potatoes au gratin"
+title: French Potatoes au gratin
 tags: amazing potatoe
-source: http://thymefoodblog.com/2011/03/s.html
-serves: "2"
+source: 'http://thymefoodblog.com/2011/03/s.html'
+serves: '2'
 ---
 * 500 g Yukon Gold or russet potatoes
 * 1 cup whipping or heavy cream
