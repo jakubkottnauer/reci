@@ -1,8 +1,8 @@
 import React from 'react'
 import { graphql, Link } from 'gatsby'
-import Layout from '../components/layout'
 import { Helmet } from 'react-helmet'
 import { remarkForm } from 'gatsby-tinacms-remark'
+import Layout from '../components/layout'
 
 function Template({ data }) {
   const { markdownRemark } = data
@@ -22,7 +22,7 @@ function Template({ data }) {
                 href={frontmatter.source}
                 rel="noopener noreferrer"
               >
-                Website
+                Original recipe
               </a>
             )}
             {frontmatter.serves && (
@@ -33,6 +33,26 @@ function Template({ data }) {
                 </span>
                 {frontmatter.serves}
               </span>
+            )}
+            {frontmatter.tags && (
+              <div style={{ display: 'inline-block', float: 'right' }}>
+                Tags:{' '}
+                {frontmatter.tags.split(' ').map((tag) => (
+                  <span
+                    style={{
+                      display: 'inline-block',
+                      boxSizing: 'content-box',
+                      padding: 2,
+                      marginLeft: 5,
+                      color: 'white',
+                      backgroundColor: 'red',
+                      borderRadius: 5,
+                    }}
+                  >
+                    {tag}
+                  </span>
+                ))}
+              </div>
             )}
           </div>
           {fields.relatedRecipes && (
@@ -68,6 +88,7 @@ const RecipeForm = {
       component: 'date',
       dateFormat: 'YYYY-MM-DD',
       timeFormat: false,
+      description: 'Date when the recipe was created, YYYY-MM-DD',
     },
     {
       label: 'Serves',
@@ -141,6 +162,7 @@ export const pageQuery = graphql`
         title
         serves
         source
+        tags
       }
       fields {
         ingredients

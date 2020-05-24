@@ -1,8 +1,9 @@
 ---
-title: 'Gnocchi'
+title: Gnocchi
 tags: italy italian
-source: https://www.foodnetwork.com/recipes/michael-chiarello/potato-gnocchi-recipe-2011835
-serves: '2-3'
+source: >-
+  https://www.foodnetwork.com/recipes/michael-chiarello/potato-gnocchi-recipe-2011835
+serves: 2-3
 related: shrimp-gnocchi
 image: gnocchi.jpg
 ---

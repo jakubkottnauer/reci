@@ -1,10 +1,8 @@
 ---
-
-title:  "Bagels"
+title: Bagels
 tags: amazing bread
-source: http://www.sophisticatedgourmet.com/2009/10/new-york-style-bagel-recipe/
+source: 'http://www.sophisticatedgourmet.com/2009/10/new-york-style-bagel-recipe/'
 image: bagels.jpg
-
 ---
 * 2 teaspoons of active dry yeast
 * 1 1/2 tablespoons of granulated sugar
