@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+}
+
+a {
+  background-color: transparent;
+}
+
+a:active,
+a:hover {
+  outline-width: 0;
+}
+
+html {
+  box-sizing: border-box;
+  overflow-y: scroll;
+}
+
+h1 {
+  margin: 0;
+
+  a {
+    color: black;
+  }
+}

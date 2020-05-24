@@ -1,9 +1,8 @@
 ---
-
-title:  "Cheesy Pasta Bake"
+title: Cheesy Pasta Bake
 tags: italy italian
-source: http://kitchensanctuary.com/2017/01/cheesy-pasta-bake-chicken-bacon/
-serves: "5"
+source: 'http://kitchensanctuary.com/2017/01/cheesy-pasta-bake-chicken-bacon/'
+serves: '5'
 image: cheesy-pasta-bake.jpg
 ---
 * 400g (4½ cups) dried pasta shapes (I used rigatoni)

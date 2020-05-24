@@ -4,8 +4,8 @@ import { StaticQuery, graphql } from 'gatsby'
 import { Helmet } from 'react-helmet'
 
 import Header from './header'
-import './layout.css'
-import './recipes.css'
+import './layout.scss'
+import './recipes.scss'
 
 const Layout = ({ children }) => (
   <StaticQuery
@@ -18,7 +18,7 @@ const Layout = ({ children }) => (
         }
       }
     `}
-    render={data => (
+    render={(data) => (
       <>
         <Helmet titleTemplate={`%s | ${data.site.siteMetadata.title}`} />
         <Header siteTitle={data.site.siteMetadata.title} />

@@ -1,7 +1,7 @@
 ---
-title: 'Chinese Pineapple Chicken'
+title: Chinese Pineapple Chicken
 tags: amazing chicken china chinese asian
-source: https://soupbelly.com/2010/07/29/chinese-pineapple-chicken/
+source: 'https://soupbelly.com/2010/07/29/chinese-pineapple-chicken/'
 image: pineapple-chicken.jpg
 ---
 

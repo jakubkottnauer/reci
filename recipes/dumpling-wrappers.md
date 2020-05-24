@@ -1,6 +1,6 @@
 ---
-title: 'Dumpling Wrappers'
-source: https://steamykitchen.com/41178-best-chinese-potsticker-dumplings-recipe.html
+title: Dumpling Wrappers
+source: 'https://steamykitchen.com/41178-best-chinese-potsticker-dumplings-recipe.html'
 tags: japan japanese dumplings asian
 image: gyozas.jpg
 related: gyozas

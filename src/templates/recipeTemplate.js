@@ -2,6 +2,7 @@ import React from 'react'
 import { graphql, Link } from 'gatsby'
 import { Helmet } from 'react-helmet'
 import { remarkForm } from 'gatsby-tinacms-remark'
+import { BsFillPeopleFill, BsLink45Deg } from 'react-icons/bs'
 import Layout from '../components/layout'
 
 function Template({ data }) {
@@ -12,53 +13,45 @@ function Template({ data }) {
     <Layout>
       <Helmet title={frontmatter.title} />
 
-      <div className="recipe-container">
-        <div className="recipe">
-          <h1>{frontmatter.title}</h1>
-          <div className="recipe-meta">
+      <div className="recipe">
+        <h1>{frontmatter.title}</h1>
+        <div className="recipe-meta">
+          <div style={{ float: 'left' }}>
             {frontmatter.source && (
-              <a
-                target="_blank"
-                href={frontmatter.source}
-                rel="noopener noreferrer"
-              >
-                Original recipe
-              </a>
+              <div className="section-with-icon">
+                <BsLink45Deg />
+                <a
+                  className="original-link"
+                  target="_blank"
+                  href={frontmatter.source}
+                  rel="noopener noreferrer"
+                  className="text"
+                >
+                  original recipe
+                </a>
+              </div>
             )}
             {frontmatter.serves && (
-              <span>
-                {' | '}
-                <span role="img" aria-label="Servings">
-                  👤
-                </span>
-                {frontmatter.serves}
-              </span>
+              <div className="section-with-icon">
+                <BsFillPeopleFill />
+                <span className="text">{frontmatter.serves}</span>
+              </div>
             )}
+          </div>
+          <div style={{ float: 'right' }}>
             {frontmatter.tags && (
-              <div style={{ display: 'inline-block', float: 'right' }}>
-                Tags:{' '}
+              <div>
                 {frontmatter.tags.split(' ').map((tag) => (
-                  <span
-                    style={{
-                      display: 'inline-block',
-                      boxSizing: 'content-box',
-                      padding: 2,
-                      marginLeft: 5,
-                      color: 'white',
-                      backgroundColor: 'red',
-                      borderRadius: 5,
-                    }}
-                  >
-                    {tag}
-                  </span>
+                  <span className="tag">{tag}</span>
                 ))}
               </div>
             )}
           </div>
+
           {fields.relatedRecipes && (
-            <div className="recipe-meta">
+            <div className="section-related-recipes">
+              Related recipe{fields.relatedRecipes.length > 1 ? 's' : ''}:
               <ul>
-                Related recipe{fields.relatedRecipes.length > 1 ? 's' : ''}:
                 {fields.relatedRecipes.map((r) => (
                   <li key={r.slug}>
                     <Link to={r.slug}>{r.title}</Link>
@@ -67,8 +60,9 @@ function Template({ data }) {
               </ul>
             </div>
           )}
-          <Recipe text={html} ingredients={fields.ingredients} />
         </div>
+
+        <Recipe text={html} ingredients={fields.ingredients} />
       </div>
     </Layout>
   )
@@ -147,7 +141,7 @@ const Recipe = ({ text, ingredients: sourceIngredients }) => {
         />
       )}
       <div
-        classNAme="recipe-text"
+        className="recipe-text"
         dangerouslySetInnerHTML={{ __html: recipe }}
       />
     </div>

@@ -1,8 +1,8 @@
 ---
-title: 'Ketchup'
+title: Ketchup
 tags: sauce
-source: https://www.inspiredtaste.net/27375/homemade-ketchup-recipe/
-serves: '3 cups'
+source: 'https://www.inspiredtaste.net/27375/homemade-ketchup-recipe/'
+serves: 3 cups
 image: ketchup.jpg
 lang: en
 ---

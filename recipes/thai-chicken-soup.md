@@ -1,9 +1,8 @@
 ---
-
-title:  "Thai Chicken Soup"
+title: Thai Chicken Soup
 tags: amazing soup tomato italy italian
-source: http://www.foodlover.cz/2014/01/kureci-polevka-s-nadechem-thajska.html
-serves: "6"
+source: 'http://www.foodlover.cz/2014/01/kureci-polevka-s-nadechem-thajska.html'
+serves: '6'
 ---
 * 1 litr kuřecího vývaru
 * 165 ml kokosového mléka

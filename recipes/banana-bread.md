@@ -1,7 +1,7 @@
 ---
-title: 'Banana Bread'
+title: Banana Bread
 source: 'http://www.foodlover.cz/blog//2013/12/banana-bread.html'
-tags: 'amazing sweet'
+tags: amazing sweet
 date: '2019-09-12'
 serves: 1 loaf
 lang: cz

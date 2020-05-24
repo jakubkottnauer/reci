@@ -1,8 +1,7 @@
 ---
-
-title:  "Chléb pečený v kastrolu"
+title: Chléb pečený v kastrolu
 tags: amazing bread
-source: http://www.simplyrecipes.com/recipes/tomato_and_bread_soup_pappa_al_pomodoro
+source: 'http://www.simplyrecipes.com/recipes/tomato_and_bread_soup_pappa_al_pomodoro'
 ---
 * 2 lžičky drcený kmín
 * 2 lžičky sůl
