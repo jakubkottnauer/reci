@@ -26,7 +26,7 @@ function Template({ data }) {
                   href={frontmatter.source}
                   rel="noopener noreferrer"
                 >
-                  original recipe
+                  original recipe: {frontmatter.source}
                 </a>
               </div>
             )}
