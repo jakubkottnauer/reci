@@ -1,10 +1,8 @@
 ---
-
-title:  "Fried Chicken"
+title: Fried Chicken
 tags: amazing fried chicken
-source: https://www.fifteenspatulas.com/thomas-kellers-buttermilk-fried-chicken/
+source: 'https://www.fifteenspatulas.com/thomas-kellers-buttermilk-fried-chicken/'
 image: fried-chicken.jpg
-
 ---
 * For the brine:
   * 8 cups water

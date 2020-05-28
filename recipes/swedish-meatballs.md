@@ -1,9 +1,9 @@
 ---
-
-title: "Swedish Meatballs"
+title: Swedish Meatballs
 tags: amazing swedish sweden
-source: http://allrecipes.com/recipe/231169/chef-johns-swedish-meatballs/
-serves: "6"
+source: 'http://allrecipes.com/recipe/231169/chef-johns-swedish-meatballs/'
+serves: '6'
+image: swedish-meatballs.jpg
 ---
 * Meatballs
   * 2 tbsp butter

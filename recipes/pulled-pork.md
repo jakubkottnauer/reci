@@ -1,9 +1,9 @@
 ---
-
-title:  "Pulled Pork"
+title: Pulled Pork
 tags: amazing pork meat
-source: https://www.theguardian.com/lifeandstyle/wordofmouth/2013/jan/31/how-to-cook-perfect-pulled-pork
-
+source: >-
+  https://www.theguardian.com/lifeandstyle/wordofmouth/2013/jan/31/how-to-cook-perfect-pulled-pork
+image: pulled-pork.jpg
 ---
 * 1.6kg shoulder of pork from the neck end, bone in
 * 2 tbsp salt

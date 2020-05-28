@@ -1,9 +1,8 @@
 ---
-
-title: 'Hainanese Chicken'
+title: Hainanese Chicken
 tags: amazing chicken
-source: https://www.youtube.com/watch?v=Vsv8JKI6SwE
-
+source: 'https://www.youtube.com/watch?v=Vsv8JKI6SwE'
+image: hainanese-chicken.jpg
 ---
 
 - **1** chicken
