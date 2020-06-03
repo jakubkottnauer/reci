@@ -3,7 +3,7 @@ title: Falafel
 source: 'https://www.epicurious.com/recipes/food/views/my-favorite-falafel-231755'
 tags: middle-east
 image: falafel.jpg
-serves: 20 falls
+serves: 20 balls
 ---
 
 - **1/2** large onion, roughly chopped (about 1 cup)
@@ -15,7 +15,6 @@ serves: 20 falls
 - **1 tsp** cumin
 - **1 tsp** baking powder
 - **5 tbsp** flour
-- Tahini sauce
 
 Let the chickpeas soak overnight, then drain. Or use canned chickpeas, drained.
 
