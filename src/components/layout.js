@@ -14,7 +14,10 @@ const CreateRecipe = new RemarkCreatorPlugin({
   label: 'Create Recipe',
   fields: recipeForm.fields,
   filename: (form) => {
-    const slug = form.frontmatter.title.trim().replace(/\s+/, '-').toLowerCase()
+    const slug = form.frontmatter.title
+      .trim()
+      .replace(/\s+/g, '-')
+      .toLowerCase()
     return `recipes/${slug}.md`
   },
   frontmatter: (form) => ({

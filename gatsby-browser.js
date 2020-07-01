@@ -1,7 +1,5 @@
-/**
- * Implement Gatsby's Browser APIs in this file.
- *
- * See: https://www.gatsbyjs.org/docs/browser-apis/
- */
+import { MarkdownFieldPlugin } from 'react-tinacms-editor'
 
-// You can delete this file if you're not using it
+export const onClientEntry = () => {
+  window.tinacms.plugins.add(MarkdownFieldPlugin)
+}

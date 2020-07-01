@@ -1,32 +1,32 @@
 ---
-
-title:  "Kung Pao Chicken"
+title: 'Kung Pao Chicken'
 tags: chicken china chinese
 source: http://www.chinasichuanfood.com/kung-pao-chicken/
-serves: "4"
+serves: '4'
 image: kung-pao.jpg
 ---
-* 2 boneless chicken breasts (or 4 chicken thighs), cut into small cubes
-* 1/2 cup of skinless peanuts (you may use roasted peanuts and skip step 3 and step 4)
-* 5 cm section scallion (only white part), cut into small section.
-* 6~20 dried chili peppers (change the amount according how hot you wish it to be)
-* 3 tablespoons cooking oil
-* 1 teaspoon whole Sichuan peppercorn or Sichuan peppercorn powder
-* Marinade
-  * 1 teaspoon salt
-  * 2 teaspoon cornstarch
-  * 1 tablespoon cooking wine
-* Stir fry Sauce
-  * 1/2 tablespoon dark soy sauce
-  * 1 tablespoon light soy sauce
-  * 1 teaspoon salt
-  * 1 inch ginger grated
-  * 1 tablespoon chopped green onion
-  * 2 garlic cloves, finely chopped
-  * 1 tablespoon cornstarch
-  * 1 tablespoon vinegar
-  * 2 tablespoons water
-  * 1/2 teaspoon sugar(optional)
+
+- **4** chicken thighs
+- **1/2** cup peanuts
+- **5 cm** scallion (only white part)
+- **6~20** dried chili peppers
+- **3 tbsp** oil
+- **1 tsp** Sichuan peppercorn
+- Marinade
+  - **1 tsp** salt
+  - **2 tsp** cornstarch
+  - **1 tbsp** cooking wine
+- Sauce
+  - **1/2 tbsp** dark soy sauce
+  - **1 tbsp** light soy sauce
+  - **1 tsp** salt
+  - **1 inch** ginger grated
+  - **1 tbsp** chopped green onion
+  - **2** garlic cloves, finely chopped
+  - **1 tbsp** cornstarch
+  - **1 tbsp** vinegar
+  - **2 tbsp** water
+  - **1/2 tsp** sugar (optional)
 
 Pat the chicken meat with the back of your knife and then cut the chicken into cubes with similar size. Put in a large bowl; add all the marinating sauce; mix well and marinade for around 15 minutes.
 
