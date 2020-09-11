@@ -6,13 +6,13 @@ image: ''
 date: '2020-07-01T00:00:00.000Z'
 serves: 10 buns
 ingredients: |-
-  * **3/4 cup** water
-  * **2** large egg
+  * **180 ml** water
+  * **2** large eggs
   * **2 tbsp** olive oil
-  * **400g** bread flour
-  * **14g** active dry yeast / **30g** fresh yeast
-  * **25g** granulated sugar
-  * **2tsp** salt
+  * **400 g** bread flour
+  * **14 g** active dry yeast / **30g** fresh yeast
+  * **25 g** granulated sugar
+  * **2 tsp** salt
 lang: en
 ---
 
