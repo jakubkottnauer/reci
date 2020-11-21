@@ -1,7 +1,7 @@
 ---
 
 title:  "Imerian Khachapuri"
-tags: amazing georgia georgian bread cheese
+tags: georgia georgian bread cheese
 source: http://www.youtube.com/watch?v=HtZf_sGTOrA
 image: imerski.jpg
 ---
@@ -27,4 +27,4 @@ Put the bread on the pan and "fry" it for five minutes on each side (optionally 
 
 When the bread is done, grease the top side with a bit of butter, to prevent crusting. Serve either warm or cold.
 
-Repeat the process with the rest of the dough and the cheese mixture and you will end up with two loaves of this amazing bread.
+Repeat the process with the rest of the dough and the cheese mixture and you will end up with two loaves of this bread.

@@ -1,7 +1,7 @@
 ---
-title:  "Gyros"
-tags: amazing meat
-source: http://zrzkavkuchyni.cz/gyros/
+title: Gyros
+tags: meat
+source: 'http://zrzkavkuchyni.cz/gyros/'
 related: pita
 ---
 * 800g vepřové krkovice nebo prorostlejších kotlet

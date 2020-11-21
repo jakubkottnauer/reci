@@ -1,6 +1,6 @@
 ---
 title: "Vanilkový krém"
-tags: amazing czech
+tags: czech
 source: https://recepty.cuketka.cz/buchticky-s-kremem/
 image: vanilkovy-krem.jpg
 related: koblihy

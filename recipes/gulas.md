@@ -1,6 +1,6 @@
 ---
 title:  "Guláš"
-tags: amazing beef czech hungarian hungary
+tags: beef czech hungarian hungary
 source: http://www.foodlover.cz/2017/02/hovezi-gulas.html
 serves: "4"
 image: gulas.jpg

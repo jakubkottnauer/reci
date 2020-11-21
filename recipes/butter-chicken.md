@@ -1,6 +1,6 @@
 ---
 title: Butter Chicken
-tags: amazing curry india indian chicken
+tags: curry india indian chicken
 source: 'https://www.youtube.com/watch?v=a03U45jFxOI'
 image: butter-chicken.jpg
 ---

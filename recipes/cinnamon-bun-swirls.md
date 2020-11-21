@@ -1,7 +1,7 @@
 ---
 
 title:  "Cinnamon Bun Swirls"
-tags: amazing sweet dessert
+tags: sweet dessert
 source: http://sortedfood.com/#!/cinnamonbuns/
 ---
 * plain flour (500g / 2 US Cups)

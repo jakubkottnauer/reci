@@ -1,7 +1,7 @@
 ---
 title: Adjarian Khachapuri
 source: 'https://www.cookingwithalia.com/adjarian-khachapuri-part-1-the-dough/'
-tags: amazing georgia georgian bread cheese
+tags: georgia georgian bread cheese
 image: adjarski.jpg
 date: '2019-01-01'
 serves: 5 khachapuris

@@ -1,7 +1,7 @@
 ---
 
 title:  "Ravioli"
-tags: amazing italy italian pasta
+tags: italy italian pasta
 source: http://www.bigoven.com/recipe/162071/Ravioli-by-Carmela-Cee-Stanco
 serves: "6"
 ---

@@ -1,6 +1,6 @@
 ---
 title:  "Cá Kho Tộ"
-tags: amazing fish vietnam vietnamese
+tags: fish vietnam vietnamese
 source: http://kamurka.cz/?p=288
 lang: cz
 ---

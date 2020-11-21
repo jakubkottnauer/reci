@@ -1,6 +1,6 @@
 ---
 title: "Koblihy"
-tags: amazing czech
+tags: czech
 source: https://recepty.cuketka.cz/koblihy/
 serves: "14 doughnuts"
 image: koblihy.jpg

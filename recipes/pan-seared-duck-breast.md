@@ -1,6 +1,6 @@
 ---
 title:  "Pan-seared duck breast"
-tags: amazing italy italian
+tags: italy italian
 source: https://www.blogtasticfood.com/pan-seared-duck-risotto/
 image: pan-seared-duck-breast.jpg
 serves: "4"

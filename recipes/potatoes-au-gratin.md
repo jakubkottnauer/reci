@@ -1,6 +1,6 @@
 ---
 title: French Potatoes au gratin
-tags: amazing potatoe
+tags: potatoe
 source: 'http://thymefoodblog.com/2011/03/s.html'
 serves: '2'
 ---

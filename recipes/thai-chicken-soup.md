@@ -1,6 +1,6 @@
 ---
 title: Thai Chicken Soup
-tags: amazing soup tomato italy italian
+tags: soup tomato italy italian
 source: 'http://www.foodlover.cz/2014/01/kureci-polevka-s-nadechem-thajska.html'
 serves: '6'
 ---

@@ -1,6 +1,6 @@
 ---
 title: Swedish Meatballs
-tags: amazing swedish sweden
+tags: swedish sweden
 source: 'http://allrecipes.com/recipe/231169/chef-johns-swedish-meatballs/'
 serves: '6'
 image: swedish-meatballs.jpg

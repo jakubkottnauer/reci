@@ -1,6 +1,6 @@
 ---
 title: Chicken Curry
-tags: amazing chicken india indian dinner
+tags: chicken india indian dinner
 serves: '4'
 rating: 5
 related: naan

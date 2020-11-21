@@ -1,7 +1,7 @@
 ---
 title: 'Kanelbullar'
 source: 'http://saltandwind.com/recipes/291-swedish-cinnamon-rolls-kanelbullar-recipe'
-tags: 'amazing swedish sweden sweet'
+tags: 'swedish sweden sweet'
 image: kanelbullar.jpg
 date: '2019-22-06'
 serves: 18 rolls

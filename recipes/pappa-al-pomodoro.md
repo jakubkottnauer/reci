@@ -1,7 +1,7 @@
 ---
 
 title:  "Tomato and Bread Soup (Pappa al Pomodoro)"
-tags: amazing soup tomato italy italian
+tags: soup tomato italy italian
 source: http://www.simplyrecipes.com/recipes/tomato_and_bread_soup_pappa_al_pomodoro
 serves: "6"
 ---

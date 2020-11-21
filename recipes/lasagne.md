@@ -1,7 +1,7 @@
 ---
 
 title:  "Beef Lasagne"
-tags: amazing italy italian beef
+tags: italy italian beef
 source: http://www.leaandperrins.co.uk/Recipes/Beef-Lasagne
 serves: "6"
 image: lasagne.jpg

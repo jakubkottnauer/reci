@@ -1,6 +1,6 @@
 ---
 title: "Tiramisu"
-tags: amazing sweet dessert italy italian
+tags: sweet dessert italy italian
 source: https://www.inspiredtaste.net/23599/tiramisu-recipe/
 serves: "1 tray"
 image: tiramisu.jpg

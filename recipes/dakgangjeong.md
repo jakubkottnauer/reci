@@ -1,6 +1,6 @@
 ---
 title: 'Chicken Wings Dakgangjeong'
-tags: amazing korea korean chicken wings
+tags: korea korean chicken wings
 source: http://www.maangchi.com/recipe/easy-dakgangjeong
 ---
 

@@ -1,6 +1,6 @@
 ---
 title:  "Pelmeni"
-tags: amazing russian dumplings russia
+tags: russian dumplings russia
 source: http://blogs.transparent.com/russian/making-russian-pelmeni/
 image: pelmeni.jpg
 ---

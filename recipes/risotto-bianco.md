@@ -1,7 +1,7 @@
 ---
 
 title:  "Risotto bianco"
-tags: amazing italy italian
+tags: italy italian
 source: https://www.blogtasticfood.com/pan-seared-duck-risotto/
 image: risotto-bianco.jpg
 serves: "4"

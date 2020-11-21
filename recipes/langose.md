@@ -1,13 +1,13 @@
 ---
-title:  "Langose"
-tags: amazing
+title: Langose
+tags: hungary hungarian
 image: langose.jpg
 ---
-* 1 tsp yeast
-* ½ tsp sugar
-* ½ tsp salt
-* 4 cups all purpose flour
-* 400 ml milk
+* **1 tsp** yeast
+* **½ tsp** sugar
+* **½ tsp** salt
+* **4 cups** all purpose flour
+* **400 ml** milk
 * garlic; crushed and mixed with a bit of water; for serving
 * ketchup; for serving
 * cheese; grated; for serving

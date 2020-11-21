@@ -1,6 +1,6 @@
 ---
 title: Fried Chicken
-tags: amazing fried chicken
+tags: fried chicken
 source: 'https://www.fifteenspatulas.com/thomas-kellers-buttermilk-fried-chicken/'
 image: fried-chicken.jpg
 ---

@@ -1,6 +1,6 @@
 ---
 title: Hainanese Chicken
-tags: amazing chicken
+tags: chicken
 source: 'https://www.youtube.com/watch?v=Vsv8JKI6SwE'
 image: hainanese-chicken.jpg
 ---

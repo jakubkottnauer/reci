@@ -1,7 +1,7 @@
 ---
 
 title:  "Chilli con Carne"
-tags: amazing beef dinner
+tags: beef dinner
 source: http://www.bbcgoodfood.com/recipes/3228/chilli-con-carne
 serves: "4"
 rating: 5

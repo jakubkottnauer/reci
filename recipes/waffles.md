@@ -1,7 +1,7 @@
 ---
 
 title: "Waffles"
-tags: amazing sweet breakfast
+tags: sweet breakfast
 source: http://www.marthastewart.com/338522/waffles
 ---
 * 1 cup all-purpose flour, spooned and leveled

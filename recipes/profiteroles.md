@@ -1,6 +1,6 @@
 ---
 title: "Profiteroles"
-tags: amazing italy italian dessert sweet
+tags: italy italian dessert sweet
 source: http://www.lifestylefood.com.au/recipes/2057/profiteroles-with-hot-chocolate-sauce
 image: profiteroles.jpg
 ---

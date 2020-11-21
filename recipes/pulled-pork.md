@@ -1,6 +1,6 @@
 ---
 title: Pulled Pork
-tags: amazing pork meat
+tags: pork meat
 source: >-
   https://www.theguardian.com/lifeandstyle/wordofmouth/2013/jan/31/how-to-cook-perfect-pulled-pork
 image: pulled-pork.jpg

@@ -1,6 +1,6 @@
 ---
 title: Bagels
-tags: amazing bread
+tags: bread
 source: 'http://www.sophisticatedgourmet.com/2009/10/new-york-style-bagel-recipe/'
 image: bagels.jpg
 ingredients: |-

@@ -1,7 +1,7 @@
 ---
 
 title:  "Greek Rice Pilaf"
-tags: pilaf greece greek meat amazing
+tags: pilaf greece greek meat
 source: http://www.seriouseats.com/recipes/2014/03/greek-style-pila-chicken-thighs-recipe.html
 serves: "4"
 image: greek-pilaf.jpg

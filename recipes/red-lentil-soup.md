@@ -1,6 +1,6 @@
 ---
 title: 'Red Lentil Soup with Feta Cheese'
-tags: amazing soup
+tags: soup
 source: https://nutritionistmeetschef.com/red-lentil-soup-with-feta-cheese/
 image: red-lentil-soup.jpg
 ---

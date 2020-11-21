@@ -1,6 +1,6 @@
 ---
 title: "Pita Bread"
-tags: amazing bread
+tags: bread
 source: http://zrzkavkuchyni.cz/recke-tapas/
 related: gyros
 image: pita.jpg
