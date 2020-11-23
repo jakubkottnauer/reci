@@ -1,18 +1,20 @@
 ---
-
-title: "Shakshouka"
+title: Shakshouka
 tags: morocco moroccan
-source: http://cookingwithalia.com/shakshouka-egg-dish-saudi-arabia-recipe-episode-176/
+image: shakshouka.jpg
+source: >-
+  http://cookingwithalia.com/shakshouka-egg-dish-saudi-arabia-recipe-episode-176/
 ---
-* 1 tablespoon butter
-* ½ tablespoon finely minced garlic
-* 1 large onion, chopped
-* 1 large tomato, unpeeled and chopped
-* ½ teaspoon sea salt
-* Freshly ground pepper (to taste)
-* Sea salt + Ground Pepper (to taste)
-* 6 eggs
-* Chopped cilantro
+
+- 1 tablespoon butter
+- ½ tablespoon finely minced garlic
+- 1 large onion, chopped
+- 1 large tomato, unpeeled and chopped
+- ½ teaspoon sea salt
+- Freshly ground pepper (to taste)
+- Sea salt + Ground Pepper (to taste)
+- 6 eggs
+- Chopped cilantro
 
 On medium heat, melt the butter in a flat pan. Add the garlic and the chopped onion. Cook for a few minutes until the onion becomes golden brown.
 

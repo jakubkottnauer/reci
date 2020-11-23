@@ -5,28 +5,29 @@ source: 'https://www.youtube.com/watch?v=mCnYfVQvHhA'
 image: moussaka.jpg
 date: '2020-11-20T00:00:00.000Z'
 ---
-* 3 potatoes
-* 2 zucchini
-* 2 eggplants
-* Meat filling
-  * 1 onion
-  * 1 clove of garlic
-  * fresh thyme
-  * 1 tsp sugar
-  * tsp cinnamon
-  * 1/2 tsp ground clove
-  * 500 g ground beef
-  * 1 tbsp tomato paste
-  * 400 g canned tomatoes
-  * 1/2 bunch parsley
-  * 1/2 bunch basil
-* Bechamel
-  * 100 g butter
-  * 100 g flour
-  * 750 g milk
-  * pinch of nutmeg
-  * 150 g parmesan cheese
-  3 egg yolks
+
+- 3 potatoes
+- 2 zucchini
+- 2 eggplants
+- Meat filling
+  - 1 onion
+  - 1 clove of garlic
+  - fresh thyme
+  - 1 tsp sugar
+  - tsp cinnamon
+  - 1/2 tsp ground clove
+  - 500 g ground beef
+  - 1 tbsp tomato paste
+  - 400 g canned tomatoes
+  - 1/2 bunch parsley
+  - 1/2 bunch basil
+- Bechamel
+  - 100 g butter
+  - 100 g flour
+  - 750 g milk
+  - pinch of nutmeg
+  - 150 g parmesan cheese
+    3 egg yolks
 
 Peel potatoes, thinly slice potatoes, zucchinis and eggplants, deep fry them until completely cooked and a bit crispy.
 

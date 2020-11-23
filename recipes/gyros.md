@@ -3,19 +3,22 @@ title: Gyros
 tags: meat
 source: 'http://zrzkavkuchyni.cz/gyros/'
 related: pita
+image: gyros.jpg
+lang: cz
 ---
-* 800g vepřové krkovice nebo prorostlejších kotlet
-* 1 lžička sladké papriky
-* 1 lžička pálivé papriky
-* půl lžičky drceného kmínu
-* 1 lžička sušeného česneku
-* 1 lžička sušeného oregána
-* půl lžičky sušeného tymiánu
-* půl lžičky sušeného rozmarýnu
-* sůl a pepř
-* půlka cibule
-* čerstvé bylinky (můžete zkombinovat se sušenými)
-* olej
+
+- 800g vepřové krkovice nebo prorostlejších kotlet
+- 1 lžička sladké papriky
+- 1 lžička pálivé papriky
+- půl lžičky drceného kmínu
+- 1 lžička sušeného česneku
+- 1 lžička sušeného oregána
+- půl lžičky sušeného tymiánu
+- půl lžičky sušeného rozmarýnu
+- sůl a pepř
+- půlka cibule
+- čerstvé bylinky (můžete zkombinovat se sušenými)
+- olej
 
 Maso nakrájejte na plátky. Pokud budete dělat plátky na grilovací pánvi, udělejte je silnější (tak 1,5-2 cm), pokud ale budete chtít maso napíchnout na jehlu a grilovat v troubě, tak se snažte naopak dělat slabounké plátky (primárně to doporučuju těm, co mají v troubě takový ten otočný gril na kuře, jinak mě to po domácku chutná víc z pánve).
 

@@ -1,13 +1,15 @@
 ---
-title: Chléb pečený v kastrolu
+title: Chleba v kastrolu
 tags: bread
-source: 'http://www.simplyrecipes.com/recipes/tomato_and_bread_soup_pappa_al_pomodoro'
+source: 'https://www.vareni.cz/recepty/chleb-peceny-v-kastrolu/'
+lang: cz
 ---
-* 2 lžičky drcený kmín
-* 2 lžičky sůl
-* ﻿﻿3 hrnky hladká mouka
-* 2 lžičky sušené droždí
-* ﻿1.5 hrnku voda
+
+- 2 lžičky drcený kmín
+- 2 lžičky sůl
+- 3 hrnky hladká mouka
+- 2 lžičky sušené droždí
+- 1.5 hrnku voda
 
 Do mísy nasypeme hladkou mouku, nemusí být chlebová. Přidáme sůl, sušené droždí, drcený kmín, semínka a nasucho promícháme. Zalijeme vodou a lehce promícháme. Do těsta lze libovolně přidat česnek, nebo cibuli, škvarky. Mísu překryjeme utěrkou nebo víkem a necháme nejméně 8 hodin stát.
 
