@@ -1,7 +1,7 @@
 ---
-title: "Vanilkový krém"
+title: Vanilkový krém
 tags: czech
-source: https://recepty.cuketka.cz/buchticky-s-kremem/
+source: 'https://recepty.cuketka.cz/buchticky-s-kremem/'
 image: vanilkovy-krem.jpg
 related: koblihy
 lang: cz

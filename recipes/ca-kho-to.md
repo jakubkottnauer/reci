@@ -1,7 +1,7 @@
 ---
-title:  "Cá Kho Tộ"
+title: Cá Kho Tộ
 tags: fish vietnam vietnamese
-source: http://kamurka.cz/?p=288
+source: 'http://kamurka.cz/?p=288'
 lang: cz
 ---
 * 500g masa ze sumce nebo kapra (očištěné a nakrájené na zhruba 2cm tlusté plátky)
