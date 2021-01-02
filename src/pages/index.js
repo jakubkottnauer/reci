@@ -63,7 +63,7 @@ const IndexPage = ({ data }) => {
       <div className="recipe-list">
         {recipeGroups.map((group) => (
           <div className="recipe-group" key={group[0]}>
-            <div className="recipe-group-heading" name={group[0]}>
+            <div className="recipe-group-heading" name={group[0]} id={group[0]} >
               <h2>{group[0]}</h2>
             </div>
             <div className="recipe-group-content">

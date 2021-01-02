@@ -1,17 +1,17 @@
 ---
-
-title:  "Kugelis"
+title: Kugelis
 tags: lithuania lithuanian potatoes
-source: https://myfoododyssey.com/2016/02/28/lithuanian-kugelis-potato-pudding/
+source: 'https://myfoododyssey.com/2016/02/28/lithuanian-kugelis-potato-pudding/'
 image: kugelis.jpg
 ---
-* 100 g  butter, plus more to grease the dish
-* 1 tsp salt
-* 400 g onion (about 4 medium onions)
-* 1.5 kg  potatoes (about 10 medium potatoes)
-* ¼ tsp garlic powder (optional)
-* 1 egg, whisked
-* 250 ml whole milk
+
+- **100 g** butter, plus more to grease the dish
+- **1 tsp** salt
+- **400 g** onion (about 4 medium onions)
+- **1.5 kg** potatoes (about 10 medium potatoes)
+- **1/4 tsp** garlic powder (optional)
+- **1** egg
+- **250 ml** whole milk
 
 Preheat an oven to 180˚C
 
