@@ -9,10 +9,10 @@ date: '2020-11-20T00:00:00.000Z'
 
 - Cake
   - **4** eggs
-  - **3 dl** caster suger
+  - **3 dl** caster sugar
   - **3 dl** all purpose flour
   - **2 tsp** baking powder
-  - **1 tsp** soda bicarbona
+  - **1 tsp** baking soda
   - **2 tsp** cinnamon
   - **1 tsp** cardamom
   - **1 tsp** ginger
@@ -22,11 +22,11 @@ date: '2020-11-20T00:00:00.000Z'
   - **6 dl** grated carrots
   - lemon juice
 - Frosting
-  - **150 g** Philadelpha cheese
+  - **150 g** Philadelphia cheese
   - **75 g** room temperature butter
   - **1 dl** powder sugar
   - little vanilla extract
 
-Watch the video :)
+Watch the video.
 
 Bake for 40-45 minutes at 170 C.
