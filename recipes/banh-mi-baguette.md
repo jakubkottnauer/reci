@@ -1,18 +1,17 @@
 ---
-
-title:  "Banh Mi Baguette"
+title: 'Banh Mi Baguette'
 tags: bread roll vietnam vietnamese
 source: http://www.bakewithpaws.com/?p=1692
-serves: "4 small baguettes"
+serves: '4 small baguettes'
 image: banh-mi-baguette.jpg
-
 ---
-* 250g bread flour
-* 1 ½ teaspoon active dry yeast
-* 1 tablespoon sugar
-* 1 teaspoon salt
-* 180 ml luke warm water
-* ½ vitamin C 500 mg (capsule or crushed tablet) or acid ascorbic
+
+- 250g bread flour
+- 1 ½ teaspoon active dry yeast
+- 1 tablespoon sugar
+- 1 teaspoon salt
+- 180 ml luke warm water
+- ½ vitamin C 500 mg (capsule or crushed tablet) or acid ascorbic
 
 In a mixing bowl of stand mixer., combine the yeast, sugar and lukewarm water. Stir well to dissolve. Add half of the flour (125 g) and stir well to create a thick mixture with consistency of pancake batter. Cover and leave it in a warm place for 2-3 hours, until bubbles appear all over the surface.
 

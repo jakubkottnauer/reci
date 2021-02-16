@@ -1,23 +1,23 @@
 ---
-title: 'Blueberry Pancakes'
-tags: breakfast, sweet
-source: https://pinchofyum.com/fluffiest-blueberry-pancakes
-serves: '2 servings'
+title: Pancakes
+tags: 'breakfast, sweet'
+source: 'https://pinchofyum.com/fluffiest-blueberry-pancakes'
+serves: 2 servings
 image: blueberry-pancakes.jpg
 lang: en
 ---
 
-* 3/4 cup milk
-* 2 tablespoons white vinegar
-* 1 cup flour
-* 2 tablespoons sugar
-* 1 teaspoon baking powder
-* 1/2 teaspoon baking soda
-* 1/2 teaspoon salt
-* 1 egg
-* 2 tablespoons melted butter
-* 1+ cup fresh blueberries
-* more butter for the pan
+- 3/4 cup milk
+- 2 tablespoons white vinegar
+- 1 cup flour
+- 2 tablespoons sugar
+- 1 teaspoon baking powder
+- 1/2 teaspoon baking soda
+- 1/2 teaspoon salt
+- 1 egg
+- 2 tablespoons melted butter
+- 1+ cup fresh blueberries
+- more butter for the pan
 
 Mix the milk and vinegar and let it sit for a minute.
 

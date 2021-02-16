@@ -31,7 +31,12 @@ const IndexPage = ({ data }) => {
   return (
     <Layout>
       <Helmet title="Home" />
-      <div className="jump-top-button" onClick={() => window.scrollTo(0, 0)}>
+      <div
+        className="jump-top-button"
+        onClick={() => window.scrollTo(0, 0)}
+        role="button"
+        tabIndex="-1"
+      >
         <AiOutlineArrowUp />
       </div>
       <div>
@@ -42,7 +47,12 @@ const IndexPage = ({ data }) => {
           value={filter}
           ref={filterInput}
         />
-        <span className="clear-recipe-filter" onClick={resetFilter}>
+        <span
+          className="clear-recipe-filter"
+          onClick={resetFilter}
+          role="button"
+          tabIndex="-1"
+        >
           <AiOutlineClose />
         </span>
       </div>
@@ -63,7 +73,7 @@ const IndexPage = ({ data }) => {
       <div className="recipe-list">
         {recipeGroups.map((group) => (
           <div className="recipe-group" key={group[0]}>
-            <div className="recipe-group-heading" name={group[0]} id={group[0]} >
+            <div className="recipe-group-heading" name={group[0]} id={group[0]}>
               <h2>{group[0]}</h2>
             </div>
             <div className="recipe-group-content">
