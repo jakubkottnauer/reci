@@ -6,9 +6,9 @@ image: butter-chicken.jpg
 ---
 
 - Chicken
-  - **300 g** Chicken breast boneless
-  - **1 tbsp** Ginger garlic paste
-  - **1 tbsp** Red chilli powder
+  - **300 g** chicken breast
+  - **1 tbsp** ginger-garlic paste
+  - **1 tbsp** red chilli powder
   - Salt to taste
   - Oil to pan fry
 - Gravy
@@ -22,7 +22,7 @@ image: butter-chicken.jpg
   - **2 tbsp** kashmiri chilli powder
   - **5 tbsp** butter
   - **3 tbsp** cream
-  - **2 tbsp** malt vinegar / **1.5 tbsp** white Vinegar
+  - **2 tbsp** vinegar
   - Salt to taste
 
 Marinate the chicken with ginger paste, garlic paste, red chilli powder and salt and keep it aside for 15 to 20 minutes.
