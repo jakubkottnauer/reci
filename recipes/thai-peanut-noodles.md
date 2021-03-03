@@ -1,7 +1,8 @@
 ---
-title: 'Thai Peanut Chicken Noodles'
+title: Thai Peanut Chicken Noodles
 tags: thai asian
-source: https://damndelicious.net/2017/03/06/thai-peanut-chicken-noodles/
+source: 'https://damndelicious.net/2017/03/06/thai-peanut-chicken-noodles/'
+image: thai-peanut-noodles.jpg
 serves: '4'
 ---
 
@@ -22,7 +23,7 @@ serves: '4'
   - **1 tbsp** freshly grated ginger
   - **1 tbsp** rice vinegar
   - **1 tsp** sesame oil
-  - **1 tsp** Sriracha, optional
+  - **1 tsp** sriracha, optional
 
 In a medium bowl, whisk together peanut butter, soy sauce, garlic, honey, ginger, vinegar, sesame oil and Sriracha, if using; set aside.
 
