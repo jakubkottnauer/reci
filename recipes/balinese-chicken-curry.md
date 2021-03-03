@@ -2,7 +2,6 @@
 title: Balinese Chicken Curry
 tags: curry bali
 source: 'http://www.jamieoliver.com/recipes/curry-recipes/balinese-chicken-curry/'
-image: balinese-chicken-curry.jpg
 ---
 
 - **4cm** piece of ginger

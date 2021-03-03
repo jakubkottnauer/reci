@@ -2,7 +2,6 @@
 title: Bagels
 tags: bread
 source: 'http://www.sophisticatedgourmet.com/2009/10/new-york-style-bagel-recipe/'
-image: bagels.jpg
 ingredients: |-
   * **2 tsp** active dry yeast
   * **1 1/2 tbsp** granulated sugar
@@ -10,6 +9,7 @@ ingredients: |-
   * **500g** bread flour or high gluten flour
   * **1 1/2 tsp** salt
 ---
+
 In 1/2 cup of the warm water, pour in the sugar and yeast. Do not stir. Let it sit for five minutes, and then stir the yeast and sugar mixture, until it all dissolves in the water.
 
 Mix the flour and salt in a large bowl. Make a well in the middle and pour in the yeast and sugar mixture.

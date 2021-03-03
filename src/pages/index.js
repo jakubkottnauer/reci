@@ -84,10 +84,8 @@ const IndexPage = ({ data }) => {
                   key={node.frontmatter.title}
                 >
                   <div className="recipe">
-                    {node.frontmatter.image ? (
-                      <Img
-                        fluid={node.frontmatter.image.childImageSharp.fluid}
-                      />
+                    {node.fields.image ? (
+                      <Img fluid={node.fields.image.childImageSharp.fluid} />
                     ) : (
                       <div className="placeholder-image">
                         <GiKnifeFork />
@@ -114,9 +112,6 @@ export const listQuery = graphql`
         node {
           fields {
             slug
-          }
-          frontmatter {
-            title
             image {
               childImageSharp {
                 fluid(maxHeight: 180, maxWidth: 180) {
@@ -124,6 +119,9 @@ export const listQuery = graphql`
                 }
               }
             }
+          }
+          frontmatter {
+            title
           }
         }
       }

@@ -1,4 +1,5 @@
 const path = require('path')
+const fs = require('fs')
 const { createFilePath } = require(`gatsby-source-filesystem`)
 const { uniqBy } = require('ramda')
 const remark = require('remark')
@@ -54,6 +55,15 @@ exports.onCreateNode = ({ node, getNode, actions }) => {
       name: 'slug',
       value: slug,
     })
+
+    const absolutePath = node.fileAbsolutePath.replace('.md', '.jpg')
+    if (fs.existsSync(absolutePath)) {
+      createNodeField({
+        node,
+        name: 'image',
+        value: `./${slug.replace(/\//g, '')}.jpg`,
+      })
+    }
   }
 
   if (node.frontmatter && node.frontmatter.ingredients) {

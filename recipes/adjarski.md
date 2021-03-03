@@ -2,7 +2,6 @@
 title: Adjarian Khachapuri
 source: 'https://www.cookingwithalia.com/adjarian-khachapuri-part-1-the-dough/'
 tags: georgia georgian bread cheese
-image: adjarski.jpg
 date: '2019-01-01'
 serves: 5 khachapuris
 ingredients: |-
@@ -17,6 +16,7 @@ ingredients: |-
 lang: en
 related: ''
 ---
+
 Mix equal amounts of flour and water (one cup each) and yeast (dry or fresh yeast). You need 1 tablespoon of yeast for each cup of flour. Cover the mixture and place it in your refrigerator for 24 hours.
 
 In this recipe, you will need 180 grams of starter.

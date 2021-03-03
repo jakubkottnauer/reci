@@ -3,7 +3,6 @@ title: Carrot Cake
 tags: cake dessert
 source: 'https://www.youtube.com/watch?v=BQAWbsH3zTY'
 serves: '8'
-image: carrot-cake.jpg
 date: '2020-11-20T00:00:00.000Z'
 ---
 

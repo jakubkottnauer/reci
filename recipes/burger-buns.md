@@ -2,7 +2,6 @@
 title: Burger Buns
 source: 'https://www.youtube.com/watch?v=EfJEAlcO6es'
 tags: burger bread
-image: burger-buns.jpg
 date: '2020-07-01T00:00:00.000Z'
 serves: 10 buns
 ingredients: |-

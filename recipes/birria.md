@@ -4,7 +4,6 @@ date: '2020-07-01T18:35:56.230Z'
 source: 'https://www.youtube.com/watch?v=T-93hC2w-Xo'
 tags: mexico mexican
 serves: '12'
-image: birria.jpg
 ingredients: |-
   * **2kg** beef roast
   * **2** white onions
