@@ -10,7 +10,7 @@ function Template({ data }) {
   const { frontmatter, html, fields } = markdownRemark
 
   return (
-    <Layout>
+    <Layout headerImage={fields.image ? fields.image : undefined}>
       <Helmet title={frontmatter.title} />
 
       <div className="recipe">
@@ -182,6 +182,11 @@ export const pageQuery = graphql`
         relatedRecipes {
           slug
           title
+        }
+        image {
+          childImageSharp {
+            gatsbyImageData(layout: CONSTRAINED)
+          }
         }
       }
       ...TinaRemark

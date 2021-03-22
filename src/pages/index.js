@@ -3,7 +3,7 @@ import { Link, graphql } from 'gatsby'
 
 import Layout from '../components/layout'
 
-import Img from 'gatsby-image'
+import { GatsbyImage, getImage } from 'gatsby-plugin-image'
 import { Helmet } from 'react-helmet'
 import { filter as filterBy, groupBy, toPairs, pipe, sort } from 'ramda'
 import { AiOutlineClose, AiOutlineArrowUp } from 'react-icons/ai'
@@ -85,7 +85,7 @@ const IndexPage = ({ data }) => {
                 >
                   <div className="recipe">
                     {node.fields.image ? (
-                      <Img fluid={node.fields.image.childImageSharp.fluid} />
+                      <GatsbyImage image={getImage(node.fields.image)} />
                     ) : (
                       <div className="placeholder-image">
                         <GiKnifeFork />
@@ -114,9 +114,12 @@ export const listQuery = graphql`
             slug
             image {
               childImageSharp {
-                fluid(maxHeight: 180, maxWidth: 180) {
-                  ...GatsbyImageSharpFluid
-                }
+                gatsbyImageData(
+                  height: 175
+                  width: 175
+                  layout: FIXED
+                  placeholder: DOMINANT_COLOR
+                )
               }
             }
           }
