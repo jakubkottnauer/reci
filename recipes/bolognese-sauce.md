@@ -1,6 +1,6 @@
 ---
-title: 'Bolognese Sauce'
-source: https://cooking.nytimes.com/recipes/1015181-marcella-hazans-bolognese-sauce
+title: Bolognese Sauce
+source: 'https://cooking.nytimes.com/recipes/1015181-marcella-hazans-bolognese-sauce'
 tags: italy italian sauce pasta
 ---
 
