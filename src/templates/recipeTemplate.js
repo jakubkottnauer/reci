@@ -118,11 +118,6 @@ export const recipeForm = {
       description: 'Space-separated list of tags',
     },
     {
-      label: 'Image',
-      name: 'frontmatter.image',
-      component: 'text',
-    },
-    {
       label: 'Ingredients',
       name: 'rawFrontmatter.ingredients',
       component: 'markdown',

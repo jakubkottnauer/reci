@@ -2,7 +2,6 @@
 title: Red Lentil Soup with Feta Cheese
 tags: soup
 source: 'https://nutritionistmeetschef.com/red-lentil-soup-with-feta-cheese/'
-image: red-lentil-soup.jpg
 ingredients: |-
   * 1 tbsp oil coconut, olive or butter will do
   * 1 onion chopped
@@ -16,6 +15,7 @@ ingredients: |-
   * Salt & pepper to taste
   * feta cheese chill flakes, mint, parsley
 ---
+
 Fry the onion, red pepper and carrots in oil in a large soup pan on low-medium heat for around 10 min, or until the onions are translucent.
 
 Add the garlic, spices and lentils and fry for a minute or two.
