@@ -3,6 +3,7 @@ title: Hainanese Chicken
 tags: chicken
 source: 'https://www.youtube.com/watch?v=Vsv8JKI6SwE'
 image: hainanese-chicken.jpg
+related: asian-dipping-sauces
 ---
 
 - **1** chicken

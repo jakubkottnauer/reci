@@ -8,7 +8,10 @@ const remarkHTML = require('remark-html')
 exports.createPages = ({ actions, graphql }) => {
   const { createPage } = actions
 
-  const recipeTemplate = path.resolve(`src/templates/recipeTemplate.js`)
+  const recipeTemplate = path.resolve('src/templates/recipeTemplate.js')
+  const smallRecipesTemplate = path.resolve(
+    'src/templates/smallRecipesTemplate.js'
+  )
 
   return graphql(`
     {
@@ -24,6 +27,7 @@ exports.createPages = ({ actions, graphql }) => {
             frontmatter {
               title
               source
+              layout
             }
           }
         }
@@ -35,12 +39,16 @@ exports.createPages = ({ actions, graphql }) => {
     }
 
     result.data.allMarkdownRemark.edges.forEach(({ node }) => {
+      const { slug } = node.fields
       createPage({
-        path: node.fields.slug,
-        component: recipeTemplate,
+        path: slug,
+        component:
+          node.frontmatter.layout === 'smallrecipes'
+            ? smallRecipesTemplate
+            : recipeTemplate,
         context: {
-          slug: node.fields.slug,
-        }, // additional data can be passed via context
+          slug,
+        },
       })
     })
   })
@@ -101,11 +109,13 @@ exports.sourceNodes = ({ actions, getNodes, getNode }) => {
           node.frontmatter.related instanceof Array
             ? node.frontmatter.related.map(getRecipeById)
             : [getRecipeById(node.frontmatter.related)]
-
+        console.log(
+          node.frontmatter.title,
+          found.map((x) => x.frontmatter.title)
+        )
         found
           .filter((n) => n)
           .map((n) => {
-            // if it's first time for this author init empty array for his books
             if (!relatedRecipes[n.id]) {
               relatedRecipes[n.id] = []
             }
