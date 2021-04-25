@@ -133,30 +133,13 @@ export const recipeForm = {
 export default remarkForm(Template, recipeForm)
 
 const Recipe = ({ text, ingredients: sourceIngredients }) => {
-  let recipe = text
-  let ingredients = sourceIngredients
-  // Try to split by end of ingredient list
-  const splitBy = '</ul>'
-  const idx = text.lastIndexOf(splitBy)
-
-  // if individual ingredients aren't specified, extract them from recipe text
-  if (idx > -1 && !ingredients) {
-    ingredients = text.substr(0, idx + splitBy.length)
-    recipe = text.substr(idx + splitBy.length)
-  }
+  const recipes = text.split('<hr>')
 
   return (
     <div className="recipe-content">
-      {ingredients && (
-        <div
-          className="recipe-ingredients"
-          dangerouslySetInnerHTML={{ __html: ingredients }}
-        />
-      )}
-      <div
-        className="recipe-text"
-        dangerouslySetInnerHTML={{ __html: recipe }}
-      />
+      {recipes.map((r) => (
+        <div className="small-recipe" dangerouslySetInnerHTML={{ __html: r }} />
+      ))}
     </div>
   )
 }

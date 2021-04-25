@@ -109,10 +109,6 @@ exports.sourceNodes = ({ actions, getNodes, getNode }) => {
           node.frontmatter.related instanceof Array
             ? node.frontmatter.related.map(getRecipeById)
             : [getRecipeById(node.frontmatter.related)]
-        console.log(
-          node.frontmatter.title,
-          found.map((x) => x.frontmatter.title)
-        )
         found
           .filter((n) => n)
           .map((n) => {
