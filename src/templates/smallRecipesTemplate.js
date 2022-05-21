@@ -1,7 +1,6 @@
 import React from 'react'
 import { graphql, Link } from 'gatsby'
 import { Helmet } from 'react-helmet'
-import { remarkForm } from 'gatsby-tinacms-remark'
 import { BsFillPeopleFill, BsLink45Deg, BsLink } from 'react-icons/bs'
 import Layout from '../components/layout'
 
@@ -130,7 +129,7 @@ export const recipeForm = {
   ],
 }
 
-export default remarkForm(Template, recipeForm)
+export default Template
 
 const Recipe = ({ text, ingredients: sourceIngredients }) => {
   const recipes = text.split('<hr>')
@@ -150,7 +149,6 @@ export const pageQuery = graphql`
       html
       frontmatter {
         title
-        serves
         source
         tags
       }
@@ -166,7 +164,6 @@ export const pageQuery = graphql`
           }
         }
       }
-      ...TinaRemark
     }
   }
 `

@@ -3,7 +3,7 @@ const fs = require('fs')
 const { createFilePath } = require(`gatsby-source-filesystem`)
 const { uniqBy } = require('ramda')
 const remark = require('remark')
-const remarkHTML = require('remark-html')
+// const remarkHTML = require('remark-html')
 
 exports.createPages = ({ actions, graphql }) => {
   const { createPage } = actions
@@ -54,7 +54,7 @@ exports.createPages = ({ actions, graphql }) => {
   })
 }
 
-exports.onCreateNode = ({ node, getNode, actions }) => {
+exports.onCreateNode = async ({ node, getNode, actions }) => {
   const { createNodeField } = actions
   if (node.internal.type === 'MarkdownRemark') {
     const slug = createFilePath({ node, getNode, basePath: 'recipes' })
@@ -76,8 +76,8 @@ exports.onCreateNode = ({ node, getNode, actions }) => {
 
   if (node.frontmatter && node.frontmatter.ingredients) {
     const ingredients = node.frontmatter.ingredients
+    const remarkHTML = (await import('remark-html')).default
     const value = remark().use(remarkHTML).processSync(ingredients).toString()
-
     createNodeField({
       name: 'ingredients',
       node,

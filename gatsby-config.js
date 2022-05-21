@@ -42,14 +42,6 @@ module.exports = {
       },
     },
     {
-      resolve: 'gatsby-plugin-tinacms',
-      options: {
-        enabled: process.env.NODE_ENV !== 'production',
-        sidebar: true,
-        plugins: ['gatsby-tinacms-git', 'gatsby-tinacms-remark'],
-      },
-    },
-    {
       resolve: `gatsby-plugin-typography`,
       options: {
         pathToConfigModule: `src/utils/typography`,
